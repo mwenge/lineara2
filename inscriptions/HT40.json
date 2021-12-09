@@ -1,0 +1,19 @@
+{
+  "catalogue": "HM 40",
+  "dimensions": {
+    "height": "[4.40]",
+    "length": "4.800",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,800 x [4,40] x 0,80 cm",
+  "name": "HT40",
+  "tabulatedWords": ["𐘯𐘬𐙷", "𐄁", "𐘃", "𐄁", "𐙉", "𐄚𐄍", "𐘸𐘀𐘳", "𐄁", "𐙉", "𐄙𐄒𐄊", "𐙂𐘁", "𐙂"],
+  "tabulation": [
+    [["𐘯", "certain", 0], ["𐘬", "certain", 0], ["𐙷", "certain", 0], ["𐄁", "certain", 1], ["𐘃", "certain", 2], ["𐄁", "certain", 3], ["𐙉", "certain", 4], ["𐄚", "certain", 5], ["𐄍", "certain", 5]],
+    [["𐘸", "certain", 6], ["𐘀", "certain", 6], ["𐘳", "certain", 6], ["𐄁", "certain", 7], ["𐙉", "certain", 8], ["𐄙", "certain", 9], ["𐄒", "certain", 9], ["𐄊", "certain", 9]],
+    [["𐙂", "certain", 10], ["𐘁", "doubtful", 10]],
+    [["𐙂", "certain", 11]]
+  ]
+}

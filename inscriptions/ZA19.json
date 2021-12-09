@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1636",
+  "dimensions": {
+    "height": "[5.70]",
+    "length": "6.50",
+    "source": "GORILA OCR",
+    "thickness": "1.20",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "6,50 x [5,70] x 1,20 cm",
+  "name": "ZA19",
+  "tabulatedWords": ["𐘴𐘃"],
+  "tabulation": [
+    [["𐘴", "", 0], ["𐘃", "", 0]]
+  ]
+}

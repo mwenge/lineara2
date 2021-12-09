@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM 1540",
+  "dimensions": {
+    "height": "1.60",
+    "length": "4.60",
+    "source": "GORILA OCR",
+    "thickness": "4.00",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,60 x 1,60 x 4,00 cm",
+  "name": "PH9b",
+  "tabulatedWords": ["𐚬𐙍", "𐄇", "𐝆𐝆"],
+  "tabulation": [
+    [["𐚬", "", 0], ["𐙍", "", 0], ["𐄇", "", 1], ["𐝆", "", 2]],
+    [["𐝆", "", 2]]
+  ]
+}

@@ -1,0 +1,1230 @@
+	
+APZa<3>	certain,certain,certain,eol
+APZa1	certain,certain,certain,certain,certain,certain,certain,certain,eol
+APZa2	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,eol
+ARZf1	certain,certain,certain,certain,eol
+ARZf2	certain,certain,certain,certain,certain,eol
+ARGZg1	certain,certain,certain,certain,certain,eol
+ARKH1a	certain,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+ARKH1af	certain,eol,certain,certain,certain,eol,certain,eol
+ARKH1b	certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,eol,certain,eol,certain,eol,certain,erased-legible,erased-legible,eol
+ARKH2	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,eol
+ARKH3a	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,erased-legible,erased-doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+ARKH3b	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,eol
+ARKH4a	certain,eol,certain,certain,doubtful,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,eol,certain,eol
+ARKH4b	certain,eol,certain,eol,certain,doubtful,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,doubtful,doubtful,doubtful,certain,certain,eol,certain,eol
+ARKH5	certain,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,doubtful,certain,certain,certain,eol,certain,eol
+ARKH6	doubtful,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol
+ARKH7	certain,eol,certain,eol,certain,certain,eol,certain,eol
+ARKHZb10	certain,certain,certain,certain,certain,certain,eol
+ARKHZc8	doubtful,certain,certain,eol
+ARKHZf9	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+ARMZg1	certain,eol
+CR(?)Zf1	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+CRZf5	certain,eol
+CRZg3	doubtful,certain,certain,certain,doubtful,certain,certain,eol
+CRZg4	certain,certain,certain,eol,certain,certain,certain,eol
+FOZc1	doubtful,certain,certain,eol
+GO2r	certain,eol,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+GO2v	certain,eol,certain,doubtful,certain,doubtful,certain,eol,doubtful,doubtful,certain,certain,certain,certain,eol,certain,eol,certain,eol
+GOWc1a	certain,certain,eol,doubtful,certain,eol,certain,doubtful,eol
+GOWc1b	certain,certain,eol
+GOWc3	certain,certain,certain,certain,eol
+HSZg1	certain,certain,eol
+HT1	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT2	certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+HT3	certain,eol,certain,doubtful,certain,doubtful,doubtful,certain,eol,certain,doubtful,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,doubtful,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol
+HT4	certain,eol,certain,certain,certain,certain,doubtful,doubtful,eol,certain,certain,doubtful,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT5	certain,eol,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT6a	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT6b	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT7a	certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT7b	certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT8a	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT8b	certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+HT9a	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HT9b	certain,certain,doubtful,doubtful,doubtful,certain,eol,certain,eol,certain,certain,certain,doubtful,doubtful,certain,doubtful,doubtful,eol,certain,certain,doubtful,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,eol
+HT10a	certain,certain,certain,certain,certain,certain,certain,certain,eol,erased-legible,erased-legible,erased-legible,erased-legible,eol,certain,certain,certain,certain,certain,certain,certain,erased-legible,eol,erased-legible,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HT10b	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT11a	certain,certain,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,doubtful,eol,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,eol
+HT11b	certain,doubtful,doubtful,doubtful,certain,eol,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,eol
+HT12	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT13	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT14	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+HT15	certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,eol,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+HT16	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol
+HT17	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT18	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+HT19	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,doubtful,doubtful,certain,eol
+HT20	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+HT21	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+HT22	certain,eol,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,eol
+HT23a	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT23b	doubtful,doubtful,certain,certain,certain,certain,doubtful,eol,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,eol,certain,eol,certain,eol
+HT24a	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,eol
+HT24b	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT25a	certain,eol,certain,doubtful,doubtful,doubtful,doubtful,doubtful,eol,certain,certain,certain,certain,doubtful,certain,certain,doubtful,doubtful,doubtful,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT25b	certain,eol,certain,eol,doubtful,doubtful,doubtful,doubtful,doubtful,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT26a	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+HT26b	certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,doubtful,doubtful,doubtful,certain,doubtful,certain,doubtful,certain,eol,certain,eol
+HT27a	certain,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,eol
+HT27b	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,eol
+HT28a	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,eol
+HT28b	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,doubtful,certain,eol
+HT29	certain,certain,certain,doubtful,certain,eol,certain,certain,certain,doubtful,certain,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT30	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,eol
+HT31	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT32	doubtful,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,certain,eol
+HT33	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT34	doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,certain,doubtful,doubtful,certain,certain,certain,doubtful,doubtful,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,erased-legible,eol,doubtful,certain,certain,certain,eol
+HT35	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,eol
+HT36	certain,certain,doubtful,certain,erased-doubtful,eol,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,eol,certain,eol,certain,eol
+HT37	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,certain,doubtful,certain,certain,certain,certain,doubtful,doubtful,eol,certain,certain,certain,certain,certain,certain,eol
+HT38	certain,eol,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT39	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,doubtful,certain,doubtful,certain,eol,certain,certain,certain,certain,doubtful,eol,certain,certain,doubtful,certain,certain,certain,eol,certain,eol
+HT40	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,certain,eol,certain,eol
+HT41a	certain,eol,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HT41b	certain,eol,certain,eol,certain,eol
+HT42+59	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,doubtful,certain,eol,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT43	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,eol
+HT44a	certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+HT44b	certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,eol,certain,certain,eol,certain,eol
+HT45a	certain,eol,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT45b	certain,eol,certain,eol,certain,certain,certain,certain,doubtful,eol,certain,doubtful,certain,eol,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,eol
+HT46a	certain,eol,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT46b	certain,eol,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,erased-doubtful,eol
+HT47a	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,doubtful,certain,doubtful,eol,certain,certain,certain,doubtful,certain,eol,certain,certain,eol,certain,certain,certain,certain,eol
+HT47b	certain,certain,certain,certain,certain,eol,certain,eol
+HT49a	certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,doubtful,doubtful,doubtful,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,eol,doubtful,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,eol
+HT49b	certain,eol,certain,certain,certain,eol,certain,doubtful,doubtful,certain,doubtful,eol,certain,eol,certain,eol,certain,certain,certain,eol,certain,eol
+HT50a	certain,eol,certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT50b	certain,eol,certain,eol,certain,eol,certain,eol,certain,certain,doubtful,certain,eol
+HT51a	certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+HT51b	certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT52a	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,eol,certain,eol
+HT52b	certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT53a	certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol,certain,certain,certain,doubtful,certain,eol,certain,doubtful,doubtful,doubtful,eol,certain,eol
+HT53b	certain,eol,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol
+HT54a	certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,doubtful,certain,eol,certain,eol
+HT54b	certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT55a	certain,doubtful,doubtful,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT55b	certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT56a	certain,certain,doubtful,certain,eol,certain,doubtful,doubtful,doubtful,certain,doubtful,eol,certain,eol
+HT56b	certain,certain,certain,eol,certain,eol,certain,eol,certain,eol
+HT57a	certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+HT57b	certain,doubtful,certain,eol,certain,eol,certain,eol
+HT58	doubtful,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,eol,certain,eol
+HT60	certain,eol,certain,certain,doubtful,doubtful,certain,eol,certain,certain,certain,doubtful,doubtful,doubtful,certain,eol,certain,certain,certain,certain,eol
+HT61	certain,eol,certain,doubtful,doubtful,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol
+HT62	certain,doubtful,doubtful,certain,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,doubtful,doubtful,doubtful,doubtful,eol,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+HT62+73	certain,certain,certain,certain,certain,certain,doubtful,certain,eol
+HT63	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol,certain,eol
+HT64	certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT65	certain,eol,certain,doubtful,certain,eol
+HT66	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+HT67	certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,eol
+HT68	certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+HT69	certain,eol,certain,doubtful,certain,doubtful,certain,eol,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+HT70	certain,doubtful,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT72	certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT73	certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,eol,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol,certain,eol
+HT73+62	certain,eol
+HT74	certain,eol,certain,eol,certain,certain,certain,doubtful,certain,eol,certain,eol
+HT75	certain,certain,certain,eol,certain,eol,certain,eol
+HT78	certain,eol,certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT79+83	certain,doubtful,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,doubtful,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,doubtful,eol,certain,eol
+HT80	certain,eol,certain,certain,certain,certain,eol,certain,eol
+HT81	doubtful,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,eol
+HT82	certain,eol,certain,doubtful,doubtful,certain,eol,doubtful,doubtful,certain,eol,certain,eol
+HT84	certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT85a	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT85b	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,eol
+HT86a	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT86b	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,eol
+HT87	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HT88	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HT89	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,doubtful,doubtful,certain,certain,certain,certain,doubtful,certain,eol
+HT90	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT91	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,doubtful,certain,eol,certain,eol
+HT92	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT93a	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT93b	certain,doubtful,doubtful,doubtful,certain,certain,certain,eol,certain,eol
+HT94a	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,eol
+HT94b	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT95a	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+HT95b	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+HT96a	doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,doubtful,doubtful,certain,certain,eol,certain,certain,certain,eol,certain,eol,certain,eol
+HT96b	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,eol,certain,eol
+HT97a	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,doubtful,certain,doubtful,certain,certain,certain,eol,doubtful,certain,certain,certain,doubtful,certain,certain,doubtful,eol,certain,eol
+HT97b	certain,certain,certain,eol
+HT98a	certain,eol,certain,doubtful,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+HT98b	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,eol
+HT99a	certain,certain,certain,certain,certain,doubtful,doubtful,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,eol
+HT99b	certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,eol
+HT100	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT101	certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,doubtful,doubtful,doubtful,doubtful,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT102	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,doubtful,doubtful,certain,doubtful,certain,eol,certain,certain,doubtful,doubtful,eol
+HT103	doubtful,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT104	certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,doubtful,doubtful,eol,doubtful,doubtful,certain,certain,eol,certain,certain,certain,certain,eol
+HT105	certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT106	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol
+HT107	certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT108	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+HT109	certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT110a	certain,certain,certain,certain,doubtful,eol,doubtful,doubtful,certain,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,eol
+HT110b	doubtful,certain,certain,certain,certain,eol,doubtful,certain,doubtful,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT111a	certain,eol,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+HT111b	certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,eol
+HT112a	certain,certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT112b	certain,certain,doubtful,certain,eol,certain,eol,certain,eol,certain,eol
+HT113	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,doubtful,doubtful,eol,certain,doubtful,certain,eol,certain,eol
+HT113ter	certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+HT114a	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+HT114b	certain,certain,doubtful,eol
+HT115a	certain,certain,certain,certain,certain,certain,certain,certain,doubtful,doubtful,doubtful,eol,certain,certain,certain,erased-legible,erased-doubtful,erased-doubtful,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,erased-doubtful,erased-doubtful,erased-doubtful,certain,eol,erased-doubtful,erased-legible,erased-doubtful,certain,eol,certain,eol
+HT115b	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,doubtful,certain,certain,certain,eol
+HT116a	doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,eol
+HT116b	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+HT117a	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT117b	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT118	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT119	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+HT120	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,doubtful,certain,certain,eol
+HT121	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+HT122a	certain,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT122b	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT123+124a	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,erased-legible,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT123+124b	certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,doubtful,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+HT125a	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+HT125b	certain,eol,certain,eol,certain,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+HT126a	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,doubtful,certain,eol,doubtful,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,doubtful,certain,eol,certain,certain,certain,eol,certain,certain,eol,certain,eol
+HT126b	certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,eol,certain,certain,certain,eol,certain,eol
+HT127a	certain,eol,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,doubtful,eol
+HT127b	certain,eol,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,erased-legible,erased-doubtful,erased-doubtful,eol,certain,certain,certain,certain,certain,eol
+HT128a	certain,certain,certain,certain,doubtful,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,eol
+HT128b	certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,eol
+HT129	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,doubtful,doubtful,certain,eol,certain,eol
+HT130	certain,certain,certain,eol,doubtful,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol,certain,certain,certain,certain,eol,doubtful,certain,certain,eol
+HT131a	certain,eol,certain,certain,doubtful,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HT131b	certain,eol,certain,eol,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT132	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,eol,certain,eol
+HT133	certain,certain,certain,certain,certain,eol,certain,certain,eol
+HT135a	certain,eol,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol
+HT135b	certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,doubtful,certain,eol
+HT136	certain,certain,certain,eol,certain,eol
+HT136a	certain,eol,certain,eol
+HT136b	certain,eol,certain,certain,certain,eol,certain,eol
+HT137	certain,eol,certain,doubtful,doubtful,certain,doubtful,certain,doubtful,certain,eol,certain,certain,doubtful,certain,eol,certain,eol
+HT139	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+HT140	certain,certain,certain,certain,certain,doubtful,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,doubtful,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT141	certain,eol,doubtful,certain,certain,certain,eol,certain,certain,doubtful,certain,eol,certain,eol
+HT142	certain,eol,certain,eol,certain,eol,certain,eol,certain,eol
+HT144	certain,certain,certain,certain,eol,certain,eol,certain,eol
+HT146	certain,eol,certain,doubtful,certain,doubtful,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+HT147	certain,eol,certain,certain,certain,eol,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+HT154	certain,certain,doubtful,certain,doubtful,certain,eol,certain,doubtful,certain,doubtful,certain,eol,certain,certain,eol,certain,eol
+HT154A	certain,doubtful,certain,doubtful,doubtful,eol,certain,doubtful,certain,certain,certain,eol,certain,eol,certain,doubtful,doubtful,certain,doubtful,certain,eol
+HT154B	certain,certain,certain,eol
+HT154C	certain,eol,certain,certain,eol,doubtful,certain,certain,eol,certain,eol
+HT154E	certain,eol,certain,certain,doubtful,doubtful,certain,eol,certain,certain,eol
+HT154G	certain,eol,certain,certain,doubtful,certain,eol
+HT154Ja	certain,eol,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol
+HT154Jb	certain,eol,certain,eol,certain,eol
+HT154K	certain,eol,certain,eol,certain,doubtful,eol,certain,eol
+HT154L	certain,eol,certain,doubtful,certain,eol
+HT154M	certain,eol,certain,eol
+HT154N	certain,eol,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,eol,certain,eol
+HTW231A	certain,eol
+HTW231B	certain,eol
+HTW231C	certain,certain,certain,eol
+HTW231D-F	
+HTWa1001	certain,certain,eol
+HTWa1002	
+HTWa1003	
+HTWa1004	
+HTWa1005	
+HTWa1006	certain,certain,eol
+HTWa1007	
+HTWa1008	
+HTWa1009	
+HTWa1010	
+HTWa1011	
+HTWa1012	
+HTWa1013	
+HTWa1014	certain,certain,eol
+HTWa1015	
+HTWa1016	
+HTWa1017	
+HTWa1018	
+HTWa1019	certain,doubtful,certain,eol,certain,certain,eol
+HTWa1020	certain,certain,certain,eol,certain,eol,doubtful,certain,certain,eol
+HTWa1021	certain,certain,certain,eol,certain,eol,certain,certain,eol
+HTWa1021bis	certain,certain,certain,eol
+HTWa1022	certain,eol
+HTWa1023	certain,eol
+HTWa1024	
+HTWa1025	doubtful,certain,eol
+HTWa1026	certain,certain,eol
+HTWa1027	certain,certain,eol
+HTWa1028	certain,certain,eol
+HTWa1029	certain,certain,eol
+HTWa1030	
+HTWa1031	certain,eol
+HTWa1032-1033	certain,eol
+HTWa1034	
+HTWa1035-1040	
+HTWa1041	
+HTWa1042-1043	
+HTWa1044	
+HTWa1045	
+HTWa1046	
+HTWa1047	
+HTWa1048	
+HTWa1049	
+HTWa1050-1053	
+HTWa1054	
+HTWa1055-1058	
+HTWa1059	
+HTWa1060	
+HTWa1061	
+HTWa1062	
+HTWa1063-1069	
+HTWa1070-1072	
+HTWa1073	
+HTWa1074-1078	
+HTWa1079-1085	
+HTWa1086	
+HTWa1087-1088	
+HTWa1089-1093	
+HTWa1094	
+HTWa1095-1103	
+HTWa1104-1106	
+HTWa1107	
+HTWa1108	
+HTWa1109	
+HTWa1110	
+HTWa1111-1112	
+HTWa1113	
+HTWa1114	
+HTWa1115	
+HTWa1116	
+HTWa1117	
+HTWa1118	
+HTWa1119	
+HTWa1120	
+HTWa1121	
+HTWa1122	certain,certain,certain,certain,certain,eol
+HTWa1123	
+HTWa1124	
+HTWa1125	
+HTWa1126-1129	
+HTWa1130	
+HTWa1131	
+HTWa1132-1133	
+HTWa1134	
+HTWa1135-1137	
+HTWa1138	
+HTWa1139	
+HTWa1140	
+HTWa1141	
+HTWa1142	
+HTWa1143	
+HTWa1144	
+HTWa1145	
+HTWa1146	
+HTWa1147	certain,certain,certain,certain,certain,eol
+HTWa1148	
+HTWa1149	
+HTWa1150	certain,eol
+HTWa1151-1153	
+HTWa1154	
+HTWa1155	
+HTWa1156-1169	
+HTWa1170	
+HTWa1171-1172	
+HTWa1173	
+HTWa1174	
+HTWa1175	certain,certain,certain,certain,certain,certain,certain,certain,eol
+HTWa1176	
+HTWa1177-1180	
+HTWa1181-1191	
+HTWa1192	
+HTWa1193-1198	
+HTWa1199	
+HTWa1200-1215	
+HTWa1216	
+HTWa1217-1218	
+HTWa1219	
+HTWa1220-1223	
+HTWa1224	
+HTWa1225	
+HTWa1226-1231	
+HTWa1232-1235	
+HTWa1236-1237	
+HTWa1238	
+HTWa1239-1240	
+HTWa1241-1250	
+HTWa1251	
+HTWa1252-1253	
+HTWa1254-1255	
+HTWa1256-1257	
+HTWa1258	
+HTWa1259	
+HTWa1260	
+HTWa1261	
+HTWa1262-1264	
+HTWa1265-1266	
+HTWa1267	certain,certain,certain,certain,certain,eol
+HTWa1268	
+HTWa1269	
+HTWa1270	
+HTWa1271-1277	
+HTWa1278	
+HTWa1279	certain,eol
+HTWa1280	
+HTWa1281	
+HTWa1282	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HTWa1283	
+HTWa1284-1285	
+HTWa1286	
+HTWa1287-1292	
+HTWa1293	
+HTWa1294	
+HTWa1295	
+HTWa1296	
+HTWa1297-1298	
+HTWa1299	
+HTWa1300	
+HTWa1301	
+HTWa1302-1303	
+HTWa1304	
+HTWa1305	
+HTWa1306	
+HTWa1307	
+HTWa1308	
+HTWa1309	
+HTWa1310	
+HTWa1311	
+HTWa1312-1313	
+HTWa1314	
+HTWa1315	
+HTWa1316	
+HTWa1317	
+HTWa1318	
+HTWa1319	
+HTWa1320	
+HTWa1321	
+HTWa1322	certain,certain,certain,certain,certain,eol
+HTWa1323	
+HTWa1324-1336	
+HTWa1337-1351	
+HTWa1352-1366	
+HTWa1367-1371	
+HTWa1372-1379	
+HTWa1380	
+HTWa1381	
+HTWa1382-1396	
+HTWa1397-1399	
+HTWa1400-1405	
+HTWa1406	
+HTWa1407	
+HTWa1408	
+HTWa1409-1411	
+HTWa1412-1417	
+HTWa1418-1420	
+HTWa1421	
+HTWa1422	
+HTWa1423-1426	
+HTWa1427-1441	
+HTWa1442-1445	
+HTWa1446-1449	
+HTWa1450	
+HTWa1451	
+HTWa1452-1455	
+HTWa1456	
+HTWa1457-1458	
+HTWa1459-1461	
+HTWa1462	
+HTWa1463	
+HTWa1464	
+HTWa1465	
+HTWa1466	
+HTWa1467-1469	
+HTWa1470	
+HTWa1471	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HTWa1472	
+HTWa1473-1480	
+HTWa1481-1482	
+HTWa1483-1489	
+HTWa1490	
+HTWa1491-1510	
+HTWa1511	
+HTWa1512	
+HTWa1513-1517	
+HTWa1518	
+HTWa1519-1527	
+HTWa1528	
+HTWa1529	
+HTWa1530	
+HTWa1531	
+HTWa1532	
+HTWa1533-1537	
+HTWa1538-1539	
+HTWa1540	
+HTWa1541	
+HTWa1542	
+HTWa1543-1545	
+HTWa1546	
+HTWa1547	
+HTWa1548-1555	
+HTWa1556	
+HTWa1557	
+HTWa1558	
+HTWa1559	
+HTWa1560	
+HTWa1561	
+HTWa1562-1565	
+HTWa1566	
+HTWa1567-1575	
+HTWa1576-1578	
+HTWa1579-1580	
+HTWa1581	
+HTWa1582	
+HTWa1583-1585	
+HTWa1586-1590	
+HTWa1591	
+HTWa1592	
+HTWa1593	
+HTWa1594-1595	
+HTWa1596-1599	
+HTWa1600	
+HTWa1601-1604	
+HTWa1605	
+HTWa1606	
+HTWa1607	
+HTWa1608	
+HTWa1609	
+HTWa1610	
+HTWa1611	
+HTWa1612	
+HTWa1613	
+HTWa1614	
+HTWa1615	
+HTWa1616	
+HTWa1618	
+HTWa1619-1620	
+HTWa1621	
+HTWa1622	
+HTWa1623	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HTWa1624-1629	
+HTWa1630	
+HTWa1631	
+HTWa1632-1633	
+HTWa1634-1637	
+HTWa1638	
+HTWa1639	
+HTWa1640	
+HTWa1641-1642	
+HTWa1643-1649	
+HTWa1650-1651	
+HTWa1652	
+HTWa1653	
+HTWa1654	
+HTWa1655-1657	
+HTWa1658	
+HTWa1659-1660	
+HTWa1661-1662	
+HTWa1664	
+HTWa1665	
+HTWa1666-1667	
+HTWa1668	
+HTWa1669-1670	
+HTWa1671	
+HTWa1672-1676	
+HTWa1677	
+HTWa1678	
+HTWa1679	
+HTWa1680-1686	
+HTWa1687-1690	
+HTWa1691-1694	
+HTWa1695-1696	
+HTWa1697	
+HTWa1698	
+HTWa1699-1707	
+HTWa1708	
+HTWa1709	
+HTWa1710	
+HTWa1711	
+HTWa1712	
+HTWa1713-1718	
+HTWa1719-1720	
+HTWa1721-1722	
+HTWa1723	
+HTWa1724	
+HTWa1725-1739	
+HTWa1740	
+HTWa1741	
+HTWa1742	
+HTWa1743	
+HTWa1744	
+HTWa1745-1748	
+HTWa1749	
+HTWa1750	
+HTWa1751	
+HTWa1752-1754	
+HTWa1755	
+HTWa1756	
+HTWa1757	
+HTWa1758	
+HTWa1759	
+HTWa1760-1761	
+HTWa1762	
+HTWa1763-1769	
+HTWa1770-1773	
+HTWa1774-1776	
+HTWa1777-1778	
+HTWa1779	
+HTWa1780-1781	
+HTWa1782-1784	
+HTWa1785-1789	
+HTWa1790	
+HTWa1791	
+HTWa1792	
+HTWa1793	
+HTWa1794	
+HTWa1795-1796	
+HTWa1797-1798	
+HTWa1799	
+HTWa1800	
+HTWa1801	
+HTWa1802-1804	
+HTWa1805-1809	
+HTWa1810	
+HTWa1811-1812	
+HTWa1813	
+HTWa1814	
+HTWa1815	
+HTWa1816	
+HTWa1817-1818	
+HTWa1819-1820	
+HTWa1821-1822	
+HTWa1823	
+HTWa1824-1825	
+HTWa1826	
+HTWa1827-1829	
+HTWa1830	
+HTWa1831-1832	
+HTWa1833	
+HTWa1834	
+HTWa1835	
+HTWa1836	
+HTWa1837-1839	
+HTWa1840	
+HTWa1841-1842	
+HTWa1843	
+HTWa1844	
+HTWa1845+1733	
+HTWa1846	
+HTWa1847	
+HTWa1848	
+HTWa1849	certain,eol
+HTWa1850	certain,eol
+HTWa1851	certain,eol
+HTWa1852	certain,eol
+HTWa1853	certain,eol
+HTWa1854	certain,eol
+HTWa1855	certain,eol
+HTWa1856-1858	
+HTWa1859	
+HTWa1860	
+HTWa1861	
+HTWb229	certain,certain,eol
+HTWb2001	certain,eol
+HTWb2002	
+HTWc3001	certain,certain,certain,certain,eol
+HTWc3002	certain,certain,certain,eol
+HTWc3003	certain,certain,certain,eol
+HTWc3004	certain,certain,certain,certain,eol
+HTWc3005	certain,certain,doubtful,certain,eol
+HTWc3006	certain,certain,certain,certain,certain,certain,eol
+HTWc3007	certain,certain,certain,eol
+HTWc3008	certain,certain,certain,certain,certain,certain,certain,eol
+HTWc3009	certain,certain,certain,certain,certain,eol
+HTWc3010	certain,certain,certain,certain,certain,eol
+HTWc3011	certain,certain,certain,eol
+HTWc3012	certain,certain,certain,certain,certain,eol
+HTWc3013	certain,eol
+HTWc3014	certain,certain,certain,certain,certain,certain,eol
+HTWc3015	certain,certain,certain,certain,eol
+HTWc3016	certain,certain,certain,certain,certain,eol
+HTWc3017	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+HTWc<3018>	certain,certain,eol
+HTWc3019	certain,certain,eol
+HTWc3021	certain,eol
+HTWc3022(?)	certain,eol
+HTWc3023	
+HTWc3024	certain,certain,certain,doubtful,eol,certain,eol
+HTWd1617	certain,eol
+HTWd1663	certain,eol
+HTWe/Wc3020	certain,certain,certain,certain,eol
+HTZb158a	certain,certain,certain,certain,certain,certain,certain,eol
+HTZb158b	certain,certain,certain,certain,certain,certain,eol
+HTZb159	certain,certain,certain,certain,certain,certain,certain,eol
+HTZb160	certain,certain,certain,certain,certain,certain,certain,eol
+HTZb161	certain,certain,certain,certain,eol
+HTZb162	certain,certain,certain,certain,eol
+HTZb162bis	certain,eol
+HTZd155	certain,certain,certain,certain,certain,doubtful,certain,certain,certain,eol
+HTZd157,156,155	certain,doubtful,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,eol
+HTZd157+156	certain,certain,certain,certain,certain,certain,certain,certain,eol
+HTZf163	certain,eol
+HTZf164	certain,eol
+HTZf165	certain,eol
+HTZf166	certain,eol
+HTZf167	certain,eol
+HTZf168	certain,eol,certain,eol
+HTZf169	certain,eol
+HTZg163	certain,eol
+IOZa<1>	certain,certain,doubtful,eol
+IOZa2	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa3	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa4	certain,certain,doubtful,certain,eol
+IOZa5	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa6	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa7	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa8	certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa9	certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol
+IOZb10	certain,certain,certain,certain,certain,certain,eol
+IOZa11	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa12	certain,certain,certain,certain,certain,certain,eol,doubtful,certain,doubtful,certain,certain,certain,certain,eol
+IOZa13	certain,certain,certain,certain,certain,certain,eol
+IOZa14	certain,certain,certain,certain,certain,certain,certain,certain,eol
+IOZa15	certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,eol
+IOZa16	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KAZf1	certain,certain,certain,eol
+KAMZb1	certain,certain,doubtful,certain,doubtful,eol
+KANZa1	certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+KE1	certain,doubtful,certain,eol,certain,eol,certain,eol
+KEWc2	certain,eol,certain,certain,eol
+KEZb3	certain,eol
+KEZb4	certain,certain,doubtful,certain,eol
+KEZb5	certain,eol
+KEZb6	certain,doubtful,certain,eol
+KEZb7	certain,doubtful,certain,eol
+KH1	certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,doubtful,certain,eol,certain,eol
+KH2	certain,eol,certain,doubtful,certain,certain,eol,certain,doubtful,certain,doubtful,certain,certain,certain,certain,eol,certain,eol
+KH3	certain,eol,certain,doubtful,doubtful,eol,certain,eol
+KH4	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH5	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,doubtful,certain,doubtful,certain,certain,certain,certain,certain,certain,eol
+KH6	certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+KH7a	certain,eol,certain,doubtful,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+KH7b	certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KH8	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,erased-legible,erased-legible,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KH9	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,eol
+KH10	certain,eol,certain,doubtful,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+KH11	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KH12	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,eol,certain,eol
+KH13	certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,eol,certain,eol
+KH14	certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,doubtful,certain,certain,certain,certain,eol,certain,eol
+KH15	certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol
+KH16	certain,doubtful,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+KH17	certain,eol,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+KH18	certain,eol,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+KH19	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+KH20	certain,eol,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,doubtful,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol
+KH21	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,certain,eol
+KH22	certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,eol
+KH23	certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+KH24	certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,eol,certain,eol
+KH25	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+KH26	certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH27	certain,eol,certain,certain,certain,eol,certain,certain,doubtful,certain,eol
+KH28	certain,eol,certain,eol,certain,certain,certain,certain,certain,eol
+KH29	certain,certain,certain,certain,certain,eol,certain,doubtful,certain,doubtful,certain,eol,certain,doubtful,certain,doubtful,certain,eol,certain,eol,certain,eol
+KH30	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,eol
+KH31	certain,eol,certain,doubtful,eol,certain,eol,certain,doubtful,certain,certain,eol,certain,doubtful,eol,certain,eol
+KH32	certain,doubtful,certain,eol,certain,certain,certain,eol,certain,eol
+KH33	certain,eol,certain,doubtful,certain,eol,certain,doubtful,doubtful,doubtful,eol,certain,eol
+KH34	certain,doubtful,certain,doubtful,certain,eol,certain,eol,certain,eol
+KH35	certain,eol,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH36	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+KH37	certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH38	certain,eol,certain,eol,certain,certain,certain,eol,certain,eol,certain,eol
+KH39	certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+KH40	certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH41	certain,doubtful,eol,certain,doubtful,certain,certain,certain,eol,certain,eol
+KH42	certain,eol,certain,certain,certain,eol,certain,eol
+KH43	certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+KH44	certain,eol,certain,eol,certain,certain,certain,eol,certain,eol
+KH45	certain,certain,eol,certain,eol,certain,eol
+KH46	certain,eol,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH47	certain,eol,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,eol
+KH49	certain,eol,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+KH50	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH51	certain,doubtful,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH52	certain,eol,certain,eol,certain,certain,certain,certain,eol,certain,eol
+KH53	certain,doubtful,certain,certain,certain,certain,certain,eol,certain,eol
+KH54	certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH55	certain,eol,certain,eol,certain,certain,certain,eol,certain,doubtful,doubtful,doubtful,eol,certain,eol
+KH56	certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH57	certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+KH58	certain,eol,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+KH59	certain,eol,certain,certain,eol,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH60	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH61	certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol
+KH62	certain,eol,certain,certain,certain,eol
+KH63	certain,eol,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,eol,certain,eol
+KH64	certain,eol,certain,certain,certain,eol,certain,eol,certain,eol
+KH65	certain,eol,certain,certain,certain,eol,certain,eol
+KH66	certain,certain,certain,eol,certain,eol
+KH67	certain,eol,certain,eol,certain,doubtful,certain,eol,certain,eol
+KH68+71	certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol,certain,eol
+KH69	certain,eol,certain,eol,certain,eol
+KH70	certain,eol,certain,eol,certain,eol
+KH72	certain,eol,certain,eol,certain,eol
+KH73	certain,eol,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+KH74	certain,doubtful,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH75	certain,eol,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,eol
+KH76	certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+KH77	certain,certain,certain,certain,eol,certain,eol
+KH78	certain,eol,certain,doubtful,certain,eol,certain,eol
+KH79	certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH79+89	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH80	certain,certain,doubtful,certain,eol,certain,eol
+KH81	certain,eol,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,eol,certain,eol
+KH82	certain,eol,certain,eol,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+KH83	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,doubtful,certain,eol,certain,eol
+KH84	certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,doubtful,certain,eol,certain,eol
+KH85	certain,eol,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+KH86	certain,doubtful,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,eol
+KH87	certain,eol,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+KH88	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH90	certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,doubtful,certain,eol,certain,eol,certain,eol
+KH91	certain,eol,certain,certain,certain,doubtful,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+KH92	certain,certain,doubtful,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+KH93	certain,eol
+KH94	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+KH95	certain,eol,certain,certain,certain,eol
+KH96	certain,eol,certain,eol,certain,certain,certain,certain,eol
+KH97a	certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+KH97b	certain,certain,certain,certain,eol,certain,eol,certain,eol
+KH99	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+KH100	doubtful,certain,certain,eol,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+KH101	
+KH102	
+KHWa1001	certain,certain,certain,certain,certain,certain,certain,eol
+KHWa1002	
+KHWa1003	certain,eol
+KHWa1004	certain,eol
+KHWa1005-1008	certain,eol
+KHWa1009,1010	
+KHWa1011	certain,eol
+KHWa1012	
+KHWa1013	certain,certain,eol
+KHWa1014,1015	
+KHWa1016	
+KHWa1017	certain,eol
+KHWa1018	certain,eol
+KHWa1019	certain,eol
+KHWa1020	certain,certain,eol
+KHWc2001	certain,certain,certain,certain,certain,eol
+KHWc2002	
+KHWc2003	certain,eol
+KHWc2004	certain,certain,eol
+KHWc2005	certain,certain,certain,certain,eol
+KHWc2006	certain,eol
+KHWc2007	
+KHWc2008	certain,certain,certain,certain,certain,certain,certain,certain,eol
+KHWc2009	
+KHWc2010	
+KHWc2011	
+KHWc2012	
+KHWc2013	
+KHWc2014	
+KHWc2015	
+KHWc2016	
+KHWc2017	
+KHWc2018	
+KHWc2019	
+KHWc2020	
+KHWc2021	
+KHWc2022	
+KHWc2023	
+KHWc2024	
+KHWc2025	
+KHWc2026	certain,eol
+KHWc2027	
+KHWc2028	certain,eol
+KHWc2029,2030	certain,certain,certain,certain,certain,eol
+KHWc2031	
+KHWc2032	
+KHWc2033	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KHWc2034	
+KHWc2035	
+KHWc2036	
+KHWc2037	
+KHWc2038	
+KHWc2039	
+KHWc2040	certain,eol
+KHWc2041	certain,eol
+KHWc2042	certain,eol
+KHWc2043	
+KHWc2044+2096	
+KHWc2045	
+KHWc2046	certain,certain,certain,certain,certain,eol
+KHWc2047	
+KHWc2048	
+KHWc2049	
+KHWc2050	
+KHWc2051	
+KHWc2052	
+KHWc2053	
+KHWc2054	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KHWc2055	
+KHWc2056	certain,eol
+KHWc2057	certain,certain,certain,certain,certain,certain,certain,certain,eol
+KHWc2058	
+KHWc2059+2091+2092	
+KHWc2060	
+KHWc2061	
+KHWc2062	
+KHWc2063	certain,eol
+KHWc2064	certain,eol
+KHWc2065	certain,certain,eol
+KHWc2066	certain,eol
+KHWc2067	certain,certain,certain,certain,certain,eol
+KHWc2068	
+KHWc2069	certain,eol
+KHWc2070	certain,eol
+KHWc2074	certain,eol
+KHWc2079	certain,eol
+KHWc2084	certain,eol
+KHWc2088+2089+fr	certain,eol
+KHWc2095	certain,eol
+KHWc2097	certain,eol
+KHWc2098	certain,eol
+KHWc2099	certain,eol
+KHWc2100	certain,certain,certain,eol
+KHWc2101	certain,eol
+KHWc2102	certain,eol
+KHWc2103	certain,eol
+KHWc2104	certain,eol
+KHWc2105	
+KHWc2106	certain,eol
+KHWc2109	certain,eol
+KHWc2110	certain,eol
+KHWc2111	certain,eol
+KHWc2113	certain,eol
+KHWc2114	doubtful,certain,eol
+KHWc2115	certain,eol
+KHWc2117	doubtful,certain,eol,certain,eol
+KHWc2118	certain,eol
+KHWc2121	certain,eol
+KHWc2122	certain,eol
+KHWc2123	certain,certain,certain,eol
+KHWc2124	certain,eol
+KHZb98	certain,eol
+KN1a	certain,certain,certain,eol,certain,certain,certain,eol
+KN1b	certain,certain,certain,certain,eol,certain,certain,eol,certain,eol
+KN2	certain,certain,certain,certain,eol,certain,certain,doubtful,doubtful,certain,eol,certain,eol
+KN22a	certain,certain,doubtful,doubtful,certain,certain,certain,eol,certain,doubtful,certain,certain,eol
+KN22b	certain,doubtful,certain,doubtful,doubtful,doubtful,eol
+KN22c	certain,doubtful,doubtful,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,eol
+KN28a	certain,eol,certain,eol,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,eol
+KN28b	certain,eol,certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+KN32a	certain,eol,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,eol
+KN32b	certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+KN54	certain,eol,certain,doubtful,doubtful,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol
+KNWa40	certain,certain,doubtful,certain,eol
+KNWa50	certain,eol
+KNWb33	certain,doubtful,certain,eol,certain,certain,certain,eol
+KNWb50	certain,eol
+KNWb51	certain,eol
+KNWc3	certain,certain,certain,doubtful,certain,eol
+KNWc23	certain,eol
+KNWc26	certain,certain,certain,certain,eol
+KNWc29	certain,eol
+KNWc30	certain,certain,certain,eol
+KNWc42	certain,certain,certain,eol
+KNWc43	certain,certain,certain,eol
+KNWc48	certain,certain,certain,eol
+KNZa10	certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,doubtful,certain,certain,certain,certain,eol
+KNZa17	certain,certain,certain,certain,eol
+KNZa18	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KNZa19	certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,eol
+KNZb4	certain,doubtful,certain,certain,certain,certain,certain,certain,eol
+KNZb5	certain,certain,doubtful,certain,certain,certain,eol
+KNZb20	certain,doubtful,certain,certain,eol
+KNZb<27>	certain,certain,certain,certain,certain,doubtful,doubtful,eol
+KNZb34	certain,eol
+KNZb35	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KNZb<36>	certain,eol
+KNZb<37>	certain,eol
+KNZb<38>	certain,eol
+KNZb<39>	certain,eol
+KNZb40	certain,certain,certain,eol,certain,certain,certain,eol
+KNZb52	certain,doubtful,certain,certain,eol
+KNZb54	certain,doubtful,doubtful,certain,eol
+KNZb56	certain,doubtful,eol
+KNZc6	certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KNZc7	certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KNZd46	certain,certain,certain,eol
+KNZe16	certain,certain,eol
+KNZe44	certain,certain,certain,certain,eol
+KNZe45	certain,certain,certain,certain,eol
+KNZe49	certain,certain,certain,eol
+KNZe56	certain,certain,certain,eol
+KNZf13	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,doubtful,doubtful,certain,certain,doubtful,eol
+KNZf31	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KNZg<21>	certain,eol
+KNZg55	certain,doubtful,certain,eol
+KOZa1	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+KO(?)Zf2	doubtful,doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+KYZa2	certain,certain,certain,eol
+KYZg1	certain,eol
+LAZb1(bis)	certain,doubtful,certain,certain,eol
+MA1a	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+MA1b	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+MA1c	certain,eol
+MA2a	certain,certain,certain,certain,eol
+MA2b	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,eol
+MA2c	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+MA4a	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+MA4b	erased-legible,certain,certain,erased-legible,erased-legible,erased-legible,erased-legible,erased-legible,erased-legible,erased-legible,eol
+MA6a	certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol
+MA6b	certain,certain,certain,certain,certain,eol
+MA6c	certain,doubtful,certain,certain,doubtful,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol
+MA6d	certain,doubtful,certain,certain,eol
+MA9	certain,doubtful,eol
+MA10a	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+MA10b	certain,doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+MA10c	certain,certain,certain,certain,certain,doubtful,certain,eol
+MA10d	certain,certain,certain,certain,eol
+MAWc<5>	certain,certain,certain,doubtful,eol,certain,certain,eol
+MAWc7	certain,eol
+MAZb??	certain,certain,eol
+MAZb8	certain,certain,certain,eol
+MAZe11	certain,certain,certain,eol
+MARGWa1-26	certain,eol
+MI2	certain,certain,eol,certain,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,doubtful,certain,eol,certain,eol
+MIZb1	certain,certain,eol
+MIZb3	
+MILZb1	certain,certain,certain,certain,eol
+MOZb2?	
+MOZb3?	
+MOZf1	certain,certain,certain,eol
+MYZa2	certain,eol
+MYZf1	certain,eol
+MYZf2	certain,eol
+MYZg1	certain,eol
+NEZa1	certain,certain,doubtful,certain,eol
+PA1	certain,certain,doubtful,certain,certain,eol,certain,certain,eol
+PE1	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,eol,certain,eol
+PE2	certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,eol
+PEWs	certain,certain,certain,certain,eol
+PEWy5	doubtful,certain,certain,certain,eol
+PEZb	certain,certain,certain,certain,eol
+PEZb3	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+PEZb7	certain,certain,eol,certain,certain,certain,certain,eol
+PEZb8	certain,eol
+PEZc4	certain,doubtful,certain,certain,certain,certain,certain,certain,doubtful,certain,eol
+PEZg5	doubtful,doubtful,certain,certain,eol
+PEZg6	certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,eol,certain,eol
+PETSWc	
+PH1a	certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+PH1b	certain,certain,certain,doubtful,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,eol
+PH2	certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,eol,certain,eol
+PH3a	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,doubtful,certain,eol,certain,doubtful,certain,doubtful,eol,certain,eol
+PH3b	certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,doubtful,doubtful,doubtful,certain,eol,certain,eol
+PH6	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+PH7a	certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,doubtful,certain,eol
+PH7b	certain,eol,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,eol
+PH8a	certain,eol,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+PH8b	certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+PH9a	certain,certain,certain,certain,eol
+PH9b	certain,doubtful,certain,certain,certain,certain,eol
+PH10	certain,certain,certain,certain,doubtful,doubtful,eol
+PH11	certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+PH12a	doubtful,doubtful,certain,certain,certain,certain,certain,eol
+PH12b	certain,certain,eol,certain,certain,certain,certain,eol
+PH12c	certain,eol
+PH13a	certain,certain,certain,certain,certain,certain,eol
+PH13b	certain,certain,eol
+PH13c	certain,certain,certain,certain,certain,certain,eol
+PH14a	certain,doubtful,certain,certain,certain,eol
+PH14b	certain,doubtful,certain,eol
+PH15a	certain,certain,certain,certain,certain,doubtful,doubtful,certain,eol
+PH15b	certain,certain,certain,certain,eol
+PH16a	certain,doubtful,certain,certain,eol,certain,eol,certain,certain,certain,certain,eol
+PH16b	certain,certain,certain,certain,eol,certain,eol,certain,doubtful,certain,eol
+PH17a	certain,certain,certain,eol
+PH17b	certain,certain,certain,eol
+PH18a	certain,certain,certain,certain,eol,certain,eol
+PH18b	certain,eol,certain,eol
+PH19	doubtful,doubtful,certain,eol,certain,eol
+PH22a	certain,certain,certain,eol
+PH22b	certain,eol
+PH24	certain,certain,eol
+PH25	certain,certain,certain,eol,certain,eol,certain,eol
+PH26	certain,certain,certain,certain,eol
+PH27	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,eol,certain,eol
+PH28a	certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+PH28b	certain,eol,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,eol,certain,doubtful,erased-legible,eol
+PH29a	certain,eol,certain,eol,certain,eol
+PH29b	certain,eol,certain,eol,certain,eol
+PH30	certain,doubtful,doubtful,certain,eol,certain,certain,certain,doubtful,certain,doubtful,certain,eol
+PH(?)31a	certain,eol,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+PH(?)31b	certain,eol,certain,doubtful,certain,certain,doubtful,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,doubtful,certain,certain,certain,certain,doubtful,certain,eol,certain,doubtful,doubtful,certain,certain,certain,certain,doubtful,doubtful,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,eol
+PHWa32	certain,certain,certain,certain,eol
+PHWb33	certain,eol
+PHWb34	
+PHWb35	
+PHWb36	certain,eol
+PHWb55	certain,eol
+PHWc37	certain,certain,certain,certain,eol
+PHWc38	certain,doubtful,certain,eol
+PHWc39	certain,certain,certain,eol
+PHWc40	certain,certain,certain,doubtful,eol
+PHWc41	certain,certain,certain,eol
+PHWc43	certain,eol
+PHWc44	certain,eol
+PHWc46	certain,doubtful,certain,certain,doubtful,eol
+PHWc52	certain,eol
+PHWg45	certain,certain,certain,eol
+PHWy42	certain,eol
+PHZb4	certain,certain,certain,certain,certain,certain,eol
+PHZb5	certain,doubtful,certain,certain,certain,eol
+PHZb<47>	certain,eol
+PHZb48	doubtful,doubtful,certain,certain,certain,eol
+PK1	certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,eol,certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,doubtful,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,eol
+PK3	certain,certain,certain,certain,doubtful,certain,doubtful,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol
+PKZa4	certain,certain,certain,certain,certain,eol
+PKZa8	certain,certain,certain,certain,doubtful,certain,certain,doubtful,certain,certain,certain,doubtful,doubtful,certain,certain,certain,doubtful,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol
+PKZa9	certain,eol,certain,doubtful,doubtful,doubtful,doubtful,doubtful,certain,certain,certain,certain,certain,certain,eol
+PKZa10	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+PKZa11	doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,doubtful,certain,certain,certain,doubtful,doubtful,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+PKZa12	doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,doubtful,doubtful,certain,certain,certain,doubtful,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,doubtful,certain,certain,certain,certain,eol
+PKZa14	certain,certain,doubtful,eol,certain,certain,certain,certain,certain,certain,eol
+PKZa15	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+PKZa16	certain,certain,certain,certain,doubtful,certain,certain,certain,eol
+PKZa17	certain,certain,certain,certain,certain,certain,certain,eol
+PKZa18	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+PKZa20	certain,certain,certain,certain,certain,eol
+PKZb?	certain,certain,certain,certain,eol,certain,certain,eol
+PKZb19	certain,certain,doubtful,certain,eol
+PKZb21	certain,certain,certain,certain,eol
+PKZb23	doubtful,certain,eol
+PKZb24	certain,eol
+PKZb25	certain,certain,doubtful,eol
+PKZc13	certain,certain,doubtful,certain,certain,eol
+PKZg22	certain,erased-legible,eol
+PLZf1	certain,certain,certain,doubtful,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,eol
+POZc1	doubtful,certain,certain,doubtful,certain,certain,certain,doubtful,certain,eol
+PRZa1	certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,doubtful,eol,certain,certain,certain,certain,certain,eol
+PSZa2	doubtful,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol
+PSIZa1	certain,doubtful,doubtful,certain,eol
+PSIZa2	certain,certain,eol
+PSIZb1	certain,certain,certain,eol
+PYR1	certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+PYR2	certain,doubtful,certain,eol
+PYRWc4	certain,certain,certain,certain,certain,doubtful,certain,eol
+PYRZb5	certain,doubtful,certain,certain,eol
+SAMWa1	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+SAMWe4	certain,eol
+SEZf1	certain,certain,eol
+SIZg1	certain,certain,certain,certain,certain,certain,eol
+SKZb1	certain,certain,certain,certain,certain,eol
+SKOZc1	certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,doubtful,doubtful,certain,eol
+SYZa1	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+SYZa2	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,eol
+SYZa3	certain,doubtful,doubtful,doubtful,certain,certain,certain,certain,doubtful,certain,certain,doubtful,certain,doubtful,certain,certain,certain,certain,eol
+SYZa4	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,eol
+SYZa5	certain,certain,certain,certain,certain,certain,certain,certain,eol
+SYZa6	certain,doubtful,certain,certain,eol
+SYZβ7	certain,certain,certain,certain,doubtful,eol
+SYZa8	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+SYZa9	certain,certain,doubtful,certain,doubtful,eol
+SYZa10	certain,certain,certain,doubtful,eol
+SYZa11	certain,doubtful,doubtful,certain,eol
+SYZa12	certain,certain,certain,certain,eol
+TELZb1	doubtful,certain,certain,certain,certain,certain,certain,eol
+THEfr.1	certain,certain,certain,eol
+THEfr.2	certain,certain,certain,eol
+THEfr.3	certain,certain,certain,eol
+THEtab.4	certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol
+THEtab.5	certain,certain,certain,certain,certain,certain,certain,eol
+THEtab.6	certain,certain,certain,eol,certain,certain,certain,doubtful,certain,eol
+THEZb1	certain,certain,certain,certain,eol
+THEZb2	certain,certain,certain,certain,eol
+THEZb3	certain,certain,certain,eol
+THEZb4	certain,certain,doubtful,certain,eol
+THEZb5	certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+THEZb6	certain,eol
+THEZb7	certain,certain,eol
+THEZb13	doubtful,certain,doubtful,doubtful,certain,certain,doubtful,certain,certain,doubtful,doubtful,eol
+TIZb1	certain,doubtful,doubtful,certain,eol
+TLZa1	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,certain,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,doubtful,certain,eol
+TRAZb1	certain,certain,certain,certain,eol
+TROZg1	certain,certain,certain,certain,certain,eol
+TROZg2	certain,certain,certain,certain,certain,eol
+TRYZb1	certain,doubtful,doubtful,certain,certain,certain,certain,doubtful,doubtful,certain,eol
+TY2	certain,certain,certain,certain,certain,doubtful,certain,certain,doubtful,doubtful,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol
+TY3a	certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,doubtful,certain,certain,certain,certain,doubtful,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,eol
+TY3b	certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,doubtful,doubtful,certain,eol,certain,eol,certain,doubtful,certain,certain,certain,certain,eol,certain,eol
+TYWc5	certain,eol
+TYZb4	certain,doubtful,certain,certain,certain,eol
+TYZg1	certain,doubtful,certain,certain,eol
+VRYZa1	certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+ZA1a	certain,certain,doubtful,doubtful,doubtful,certain,doubtful,eol,certain,certain,certain,doubtful,certain,eol,certain,eol
+ZA1b	certain,doubtful,certain,doubtful,eol,certain,certain,certain,eol,certain,eol
+ZA4a	certain,eol,certain,doubtful,certain,eol,doubtful,certain,certain,certain,doubtful,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+ZA4b	certain,eol,certain,doubtful,certain,certain,certain,eol
+ZA5a	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,doubtful,certain,certain,certain,certain,certain,eol,certain,eol
+ZA5b	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,certain,doubtful,eol
+ZA6a	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,doubtful,eol,certain,doubtful,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,eol,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,certain,eol
+ZA6b	certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,eol,certain,certain,certain,certain,eol
+ZA7a	doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,eol,certain,eol
+ZA7b	certain,certain,certain,eol,certain,doubtful,doubtful,certain,eol
+ZA8	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,eol
+ZA9	certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,doubtful,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+ZA10a	certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,eol
+ZA10b	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,doubtful,certain,eol
+ZA11a	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,certain,certain,doubtful,eol,doubtful,doubtful,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol,certain,eol
+ZA11b	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,doubtful,eol,doubtful,certain,doubtful,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,eol
+ZA12a	certain,eol,certain,certain,certain,certain,certain,certain,doubtful,doubtful,certain,eol,certain,certain,certain,eol,certain,eol
+ZA12b	certain,eol,certain,doubtful,certain,doubtful,certain,doubtful,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol
+ZA13	certain,eol,certain,certain,certain,certain,eol,certain,eol
+ZA14	certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,eol,doubtful,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,eol,certain,eol
+ZA15a	certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,doubtful,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol
+ZA15b	certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,eol
+ZA16	certain,eol,certain,doubtful,certain,eol,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,eol,certain,eol
+ZA17	certain,eol,certain,eol,certain,eol
+ZA18a	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,doubtful,certain,certain,certain,certain,certain,eol,certain,eol
+ZA18b	certain,eol,certain,certain,certain,certain,certain,eol,certain,eol
+ZA19	certain,eol,certain,certain,certain,certain,eol,certain,eol
+ZA20	certain,eol,certain,certain,doubtful,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol,certain,eol
+ZA21a	certain,certain,certain,eol,certain,certain,certain,certain,certain,eol,certain,eol,certain,certain,certain,doubtful,certain,certain,doubtful,eol,certain,eol,certain,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,doubtful,certain,certain,certain,doubtful,certain,certain,certain,eol
+ZA21b	certain,certain,certain,eol,certain,certain,certain,eol,certain,doubtful,doubtful,doubtful,doubtful,eol,certain,eol,certain,eol,certain,eol
+ZA22	certain,eol,certain,doubtful,certain,eol,certain,doubtful,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,doubtful,certain,eol,certain,certain,doubtful,doubtful,certain,eol,certain,certain,certain,eol
+ZA23	certain,eol,certain,eol,certain,certain,certain,certain,eol,certain,certain,certain,certain,eol
+ZA24a	certain,certain,doubtful,certain,eol,certain,eol,certain,eol
+ZA24b	certain,certain,certain,eol,certain,eol
+ZA25	certain,eol,certain,eol
+ZA26a	doubtful,certain,certain,certain,certain,certain,eol,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,eol,certain,eol
+ZA26b	certain,certain,certain,eol,certain,eol
+ZA27	certain,eol,certain,eol,certain,certain,certain,certain,doubtful,certain,certain,eol
+ZA28	certain,eol,certain,certain,doubtful,certain,eol,certain,eol
+ZA29	certain,eol,certain,doubtful,doubtful,certain,eol,certain,doubtful,certain,eol,certain,eol
+ZA30	certain,eol,certain,eol,certain,certain,certain,eol,certain,eol
+ZA31	certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol
+ZA32	certain,eol,certain,doubtful,certain,eol,certain,eol
+ZA33	certain,eol,certain,doubtful,doubtful,certain,eol,certain,eol
+ZAWa36	certain,eol
+ZAWa38	certain,eol
+ZAWb37	certain,eol
+ZAWc2	certain,certain,certain,certain,eol,doubtful,certain,erased-legible,eol
+ZAZb3	certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol,certain,doubtful,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,certain,eol
+ZAZb34	certain,certain,certain,doubtful,certain,doubtful,doubtful,certain,doubtful,certain,certain,eol
+ZAZg34	certain,certain,eol
+ZAZg35	certain,doubtful,certain,certain,certain,certain,doubtful,certain,certain,certain,eol
+ZOZA1	

@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1681. Cablette",
+  "dimensions": {
+    "height": "[1.80]",
+    "length": "[2.70]",
+    "source": "GORILA OCR",
+    "thickness": "[0.50]",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,70] x [1,80] x [0,50] cm",
+  "name": "PYR2",
+  "tabulatedWords": ["𐙘", "𐝆"],
+  "tabulation": [
+    [["𐙘", "doubtful", 0], ["𐝆", "certain", 1]]
+  ]
+}

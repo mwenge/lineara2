@@ -1,0 +1,12 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PE2",
+  "tabulatedWords": ["𐄉", "𐝁", "𐘘𐘢𐙙𐘻", "𐄇", "𐝄", "𐘇𐙱𐘍", "𐝃", "𐘇𐘭𐘂", "𐝃", "𐘌𐘌𐘀", "𐝆", "𐘄𐘋", "𐝁", "𐘄𐘪𐘙", "𐄇"],
+  "tabulation": [
+    [["𐄉", "certain", 0], ["𐝁", "certain", 1], ["𐘘", "certain", 2], ["𐘢", "certain", 2], ["𐙙", "certain", 2], ["𐘻", "certain", 2], ["𐄇", "doubtful", 3], ["𐝄", "certain", 4]],
+    [["𐘇", "certain", 5], ["𐙱", "certain", 5], ["𐘍", "doubtful", 5], ["𐝃", "certain", 6], ["𐘇", "certain", 7], ["𐘭", "certain", 7], ["𐘂", "certain", 7], ["𐝃", "doubtful", 8], ["𐘌", "certain", 9], ["𐘌", "certain", 9], ["𐘀", "certain", 9]],
+    [["𐝆", "certain", 10], ["𐘄", "certain", 11], ["𐘋", "doubtful", 11], ["𐝁", "certain", 12], ["𐘄", "certain", 13], ["𐘪", "certain", 13], ["𐘙", "certain", 13], ["𐄇", "certain", 14]]
+  ]
+}

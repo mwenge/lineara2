@@ -1,0 +1,20 @@
+{
+  "catalogue": "HM 1317",
+  "dimensions": {
+    "height": "7.60",
+    "length": "4.30",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,30 x 7,60 x 0,80 cm",
+  "name": "HT104",
+  "tabulatedWords": ["𐘳𐘂", "𐄁", "𐚷", "𐄁", "𐘀𐙂𐘈𐘗𐘠", "𐄓𐄋", "𐝆", "𐘚𐘬𐘠", "𐄑", "𐝆", "𐘂𐘀𐘲𐘠", "𐄑𐄏", "𐙂𐘁", "𐄘𐄋"],
+  "tabulation": [
+    [["𐘳", "certain", 0], ["𐘂", "certain", 0], ["𐄁", "certain", 1], ["𐚷", "certain", 2], ["𐄁", "certain", 3], ["𐘀", "certain", 4], ["𐙂", "doubtful", 4]],
+    [["𐘈", "certain", 4], ["𐘗", "certain", 4], ["𐘠", "certain", 4], ["𐄓", "certain", 5], ["𐄋", "certain", 5], ["𐝆", "certain", 6], ["𐘚", "certain", 7]],
+    [["𐘬", "certain", 7], ["𐘠", "certain", 7], ["𐄑", "certain", 8], ["𐝆", "doubtful", 9], ["𐘂", "doubtful", 10], ["𐘀", "doubtful", 10]],
+    [["𐘲", "doubtful", 10], ["𐘠", "doubtful", 10], ["𐄑", "certain", 11], ["𐄏", "certain", 11]],
+    [["𐙂", "certain", 12], ["𐘁", "certain", 12], ["𐄘", "certain", 13], ["𐄋", "certain", 13]]
+  ]
+}

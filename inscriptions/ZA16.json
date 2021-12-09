@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1629",
+  "dimensions": {
+    "height": "11.50",
+    "length": "7.00",
+    "source": "GORILA OCR",
+    "thickness": "1.40",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "7,00 x 11,50 x 1.40 cm",
+  "name": "ZA16",
+  "tabulatedWords": ["𐘤", "𐘂", "𐄌", "𐘲", "𐄊"],
+  "tabulation": [
+    [["𐘤", "", 0], ["𐘂", "", 1], ["𐄌", "", 2], ["𐘲", "", 3], ["𐄊", "", 4]]
+  ]
+}

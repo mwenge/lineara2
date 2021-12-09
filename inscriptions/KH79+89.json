@@ -1,0 +1,12 @@
+{
+  "catalogue": "Khania M. 79 + 89. Cabletté",
+  "dimensions": "",
+  "dimensionsRaw": "[8,70] x [8,20] × [0,90] cm",
+  "name": "KH79+89",
+  "tabulatedWords": ["𐘻𐘅", "𐘂𐘳", "𐄁", "𐘇𐘴", "𐘂𐘀𐘝"],
+  "tabulation": [
+    [["𐘻", "certain", 0], ["𐘅", "certain", 0]],
+    [["𐘂", "certain", 1], ["𐘳", "certain", 1], ["𐄁", "certain", 2], ["𐘇", "certain", 3], ["𐘴", "certain", 3]],
+    [["𐘂", "doubtful", 4], ["𐘀", "certain", 4], ["𐘝", "certain", 4]]
+  ]
+}

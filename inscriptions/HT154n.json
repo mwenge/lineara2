@@ -1,0 +1,11 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "HT154n",
+  "tabulatedWords": ["𐘤", "𐄌", "𐘤"],
+  "tabulation": [
+    [["𐘤", "", 0]],
+    [["𐄌", "", 1], ["𐘤", "", 2]]
+  ]
+}

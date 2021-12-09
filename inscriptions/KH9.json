@@ -1,0 +1,21 @@
+{
+  "catalogue": "",
+  "dimensions": {
+    "height": "10.Io",
+    "length": "6.80]",
+    "source": "GORILA OCR",
+    "thickness": "0.90 an",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "6.80] x 10.Iox 0,90 an",
+  "name": "KH9",
+  "tabulatedWords": ["𐘇𐘤𐘲𐘊𐘇", "𐄁", "𐛨", "𐝇", "𐘝", "𐝃𐝁", "𐘻", "𐘚𐘤", "𐄁", "𐜙", "𐝆", "𐄈", "𐙗", "𐝃", "𐙍", "𐙗", "𐝃𐝉", "𐝎", "𐛌𐙘", "𐄇"],
+  "tabulation": [
+    [["𐘇", "certain", 0], ["𐘤", "certain", 0], ["𐘲", "certain", 0], ["𐘊", "certain", 0], ["𐘇", "certain", 0], ["𐄁", "certain", 1], ["𐛨", "certain", 2]],
+    [["𐝇", "certain", 3], ["𐘝", "certain", 4], ["𐝃", "certain", 5], ["𐝁", "certain", 5], ["𐘻", "certain", 6]],
+    [["𐘚", "certain", 7], ["𐘤", "certain", 7], ["𐄁", "certain", 8], ["𐜙", "certain", 9], ["𐝆", "certain", 10]],
+    [["𐄈", "certain", 11], ["𐙗", "certain", 12], ["𐝃", "certain", 13], ["𐙍", "doubtful", 14]],
+    [["𐙗", "certain", 15], ["𐝃", "certain", 16], ["𐝉", "certain", 16]],
+    [["𐝎", "certain", 17], ["𐛌", "certain", 18], ["𐙘", "certain", 18], ["𐄇", "doubtful", 19]]
+  ]
+}

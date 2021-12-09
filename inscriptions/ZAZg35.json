@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "ZAZg35",
+  "tabulatedWords": ["𐘋𐘻𐘱𐘘", "𐄁", "𐘈𐘮𐙄𐘦"],
+  "tabulation": [
+    [["𐘋", "doubtful", 0], ["𐘻", "certain", 0], ["𐘱", "certain", 0], ["𐘘", "certain", 0], ["𐄁", "certain", 1], ["𐘈", "doubtful", 2], ["𐘮", "certain", 2], ["𐙄", "certain", 2], ["𐘦", "certain", 2]]
+  ]
+}

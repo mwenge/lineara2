@@ -1,0 +1,21 @@
+{
+  "catalogue": "HM 45 11",
+  "dimensions": {
+    "height": "2.60",
+    "length": "4.40",
+    "source": "GORILA OCR",
+    "thickness": "1.00",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,40 x 2,60 x 1,00 cm",
+  "name": "PH10",
+  "tabulatedWords": ["𐚏𐘡𐚎", "𐙒", "𐝈𐝈"],
+  "tabulation": [
+    [["𐚏", "certain", 0]],
+    [["𐘡", "certain", 0]],
+    [["𐚎", "certain", 0]],
+    [["𐙒", "certain", 1]],
+    [["𐝈", "doubtful", 2]],
+    [["𐝈", "doubtful", 2]]
+  ]
+}

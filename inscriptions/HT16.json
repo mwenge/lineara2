@@ -1,0 +1,19 @@
+{
+  "catalogue": "HM 18",
+  "dimensions": {
+    "height": "6.80",
+    "length": "4.60",
+    "source": "GORILA OCR",
+    "thickness": "1.00",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,60 x 6,80 x 1,00 cm",
+  "name": "HT16",
+  "tabulatedWords": ["𐘾𐙂𐘂", "𐄁", "𐘆𐘅𐘉", "𐝄", "𐄁", "𐘮", "𐝁", "𐜇", "𐝃𐝄", "𐘞𐘊", "𐘼", "𐝇"],
+  "tabulation": [
+    [["𐘾", "certain", 0], ["𐙂", "certain", 0], ["𐘂", "certain", 0], ["𐄁", "certain", 1], ["𐘆", "certain", 2]],
+    [["𐘅", "certain", 2], ["𐘉", "certain", 2], ["𐝄", "certain", 3], ["𐄁", "certain", 4], ["𐘮", "certain", 5]],
+    [["𐝁", "certain", 6], ["𐜇", "certain", 7], ["𐝃", "certain", 8], ["𐝄", "certain", 8]],
+    [["𐘞", "certain", 9], ["𐘊", "doubtful", 9], ["𐘼", "certain", 10], ["𐝇", "certain", 11]]
+  ]
+}

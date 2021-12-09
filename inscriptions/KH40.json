@@ -1,0 +1,16 @@
+{
+  "catalogue": "",
+  "dimensions": {
+    "height": "[2.50]",
+    "length": "[3.60]",
+    "source": "GORILA OCR",
+    "thickness": "1.00",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3,60] x [2,50] x 1,00 cm",
+  "name": "KH40",
+  "tabulatedWords": ["𐘤𐘅"],
+  "tabulation": [
+    [["𐘤", "doubtful", 0], ["𐘅", "certain", 0]]
+  ]
+}

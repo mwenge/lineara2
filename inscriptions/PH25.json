@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1526",
+  "dimensions": {
+    "height": "[3.70]",
+    "length": "[3.80]",
+    "source": "GORILA OCR",
+    "thickness": "1.00",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3.80] x [3.70] x 1,00 cm",
+  "name": "PH25",
+  "tabulatedWords": ["𐙍", "𐄈"],
+  "tabulation": [
+    [["𐙍", "", 0], ["𐄈", "", 1]]
+  ]
+}

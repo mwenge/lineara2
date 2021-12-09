@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM",
+  "dimensions": {
+    "height": "[3.00]",
+    "length": "[2.60]",
+    "source": "GORILA OCR",
+    "thickness": "[0.60]",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,60]x [3,00] x [0,60] cm",
+  "name": "HT80",
+  "tabulatedWords": ["𐘶𐘴"],
+  "tabulation": [
+    [["𐘶", "", 0], ["𐘴", "", 0]]
+  ]
+}

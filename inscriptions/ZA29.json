@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM",
+  "dimensions": {
+    "height": "[1.90]",
+    "length": "[2.70]",
+    "source": "GORILA OCR",
+    "thickness": "1.10",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,70] x [1,90] x 1,10 cm",
+  "name": "ZA29",
+  "tabulatedWords": ["𐙁", "𐄙", "𐘃"],
+  "tabulation": [
+    [["𐙁", "doubtful", 0], ["𐄙", "doubtful", 1], ["𐘃", "doubtful", 2]]
+  ]
+}

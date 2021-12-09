@@ -1,0 +1,11 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "TYZg1",
+  "tabulatedWords": ["𐙁𐘘𐘇"],
+  "tabulation": [
+    [["𐙁", "doubtful", 0], ["𐘘", "certain", 0]],
+    [["𐘇", "certain", 0]]
+  ]
+}

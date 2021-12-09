@@ -1,0 +1,17 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "KO(?)Zf2",
+  "tabulatedWords": ["𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍"],
+  "tabulation": [
+    [["𐘇", "doubtful", 0], ["𐘴", "doubtful", 0], ["𐘺", "doubtful", 0]],
+    [["𐙂", "certain", 0], ["𐙀", "certain", 0]],
+    [["𐘮", "certain", 0], ["𐘞", "certain", 0]],
+    [["𐘄", "certain", 0], ["𐙁", "certain", 0]],
+    [["𐘁", "certain", 0], ["𐙄", "certain", 0]],
+    [["𐘳", "certain", 0], ["𐘦", "certain", 0]],
+    [["𐘊", "certain", 0], ["𐘝", "certain", 0]],
+    [["𐘍", "certain", 0]]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "catalogue": "274",
+  "dimensions": {
+    "height": "1.90",
+    "length": "3.10",
+    "source": "GORILA OCR",
+    "thickness": "1.90",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "3,10 x 1,90 x 1,90 cm",
+  "name": "KE1",
+  "tabulatedWords": ["𐘾𐘞"],
+  "tabulation": [
+    [["𐘾", "certain", 0], ["𐘞", "doubtful", 0]]
+  ]
+}

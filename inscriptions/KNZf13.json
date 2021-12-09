@@ -1,0 +1,20 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "KNZf13",
+  "tabulatedWords": ["𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂"],
+  "tabulation": [
+    [["𐘇", "certain", 0], ["𐘙", "certain", 0], ["𐘗", "certain", 0], ["𐘤", "certain", 0], ["𐘆", "certain", 0]],
+    [["𐙕", "certain", 0]],
+    [["𐘢", "certain", 0]],
+    [["𐘥", "certain", 0]],
+    [["𐘂", "certain", 0]],
+    [["𐘱", "certain", 0]],
+    [["𐘳", "certain", 0]],
+    [["𐘭", "doubtful", 0], ["𐘈", "certain", 0], ["𐘃", "certain", 0], ["𐘭", "doubtful", 0], ["𐘕", "doubtful", 0]],
+    [["𐘇", "certain", 0]],
+    [["𐘱", "certain", 0]],
+    [["𐙂", "doubtful", 0]]
+  ]
+}

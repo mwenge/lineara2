@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PEWs",
+  "tabulatedWords": ["𐙉𐘠𐘡", "𐄇"],
+  "tabulation": [
+    [["𐙉", "", 0], ["𐘠", "", 0], ["𐘡", "", 0], ["𐄇", "", 1]]
+  ]
+}

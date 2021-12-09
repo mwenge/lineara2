@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM 708",
+  "dimensions": {
+    "height": "[4.00]",
+    "length": "[2.90]",
+    "source": "GORILA OCR",
+    "thickness": "0.90",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,90] x [4,00] x 0,90cm",
+  "name": "KN28b",
+  "tabulatedWords": ["𐘃", "𐝊", "𐄉", "𐛓", "𐝊"],
+  "tabulation": [
+    [["𐘃", "", 0], ["𐝊", "", 1]],
+    [["𐄉", "", 2], ["𐛓", "", 3], ["𐝊", "", 4]]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "ZO1",
+  "tabulatedWords": ["𐚩", "𐄚𐄐𐄍"],
+  "tabulation": [
+    [["𐚩", "", 0], ["𐄚", "", 1], ["𐄐", "", 1]],
+    [["𐄍", "", 1]]
+  ]
+}

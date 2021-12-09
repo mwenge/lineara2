@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM A632",
+  "dimensions": {
+    "height": "[8.80]",
+    "length": "9.40",
+    "source": "GORILA OCR",
+    "thickness": "[0.50]",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "9,40 x [8,80] x [0,50]",
+  "name": "ZA18b",
+  "tabulatedWords": ["𐄈", "𐝕𐝉"],
+  "tabulation": [
+    [["𐄈", "", 0], ["𐝕", "", 1], ["𐝉", "", 1]]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "SYZa11",
+  "tabulatedWords": ["𐄁", "𐘁𐘌"],
+  "tabulation": [
+    [["𐄁", "", 0], ["𐘁", "", 1], ["𐘌", "", 1]]
+  ]
+}

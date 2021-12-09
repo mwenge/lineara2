@@ -1,0 +1,18 @@
+{
+  "catalogue": "",
+  "dimensions": {
+    "height": "[5.10]",
+    "length": "[5.60]",
+    "source": "GORILA OCR",
+    "thickness": "1.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[5,60] x [5,10] x 1,80 cm",
+  "name": "KH50",
+  "tabulatedWords": ["𐘳", "𐄈", "𐘧", "𐄈", "𐘿", "𐄁", "𐄇", "—", "—"],
+  "tabulation": [
+    [["𐘳", "doubtful", 0], ["𐄈", "certain", 1]],
+    [["𐘧", "certain", 2], ["𐄈", "certain", 3], ["𐘿", "certain", 4], ["𐄁", "certain", 5], ["𐄇", "certain", 6]],
+    [["—", "certain", 7], ["—", "certain", 8]]
+  ]
+}

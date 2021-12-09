@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM5800",
+  "dimensions": {
+    "height": "2.40",
+    "length": "[5.10]",
+    "source": "GORILA OCR",
+    "thickness": "1.20",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[5,10] x 2,40 x 1,20 cm",
+  "name": "KN22a",
+  "tabulatedWords": ["𐘲𐘶𐘳", "𐄑", "𐘾𐘧"],
+  "tabulation": [
+    [["𐘲", "", 0], ["𐘶", "", 0], ["𐘳", "", 0], ["𐄑", "", 1]],
+    [["𐘾", "", 2], ["𐘧", "", 2]]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "catalogue": "Milas M. 582 . Cablete",
+  "dimensions": {
+    "height": "[4.70]",
+    "length": "[2.50]",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,50] x [4,70] x 0,80 cm",
+  "name": "MI2",
+  "tabulatedWords": ["𐘫", "—", "𐘬𐘾", "𐄁", "𐜪", "—", "𐘾"],
+  "tabulation": [
+    [["𐘫", "certain", 0]],
+    [["—", "certain", 1], ["𐘬", "doubtful", 2], ["𐘾", "certain", 2], ["𐄁", "certain", 3], ["𐜪", "certain", 4]],
+    [["—", "certain", 5], ["𐘾", "doubtful", 6]]
+  ]
+}

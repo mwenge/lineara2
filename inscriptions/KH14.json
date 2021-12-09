@@ -1,0 +1,12 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "KH14",
+  "tabulatedWords": ["𐘴", "𐄁", "𐘇𐙁𐘱", "𐄁", "𐙗", "𐄌", "𐙗", "𐝃", "𐙼", "𐄈", "𐙗", "𐝇", "𐘝", "𐝃", "𐛨", "𐄈", "𐙗"],
+  "tabulation": [
+    [["𐘴", "certain", 0], ["𐄁", "certain", 1], ["𐘇", "certain", 2], ["𐙁", "certain", 2], ["𐘱", "certain", 2], ["𐄁", "certain", 3], ["𐙗", "certain", 4], ["𐄌", "doubtful", 5]],
+    [["𐙗", "certain", 6], ["𐝃", "certain", 7], ["𐙼", "certain", 8], ["𐄈", "certain", 9], ["𐙗", "certain", 10], ["𐝇", "certain", 11]],
+    [["𐘝", "certain", 12], ["𐝃", "doubtful", 13], ["𐛨", "doubtful", 14], ["𐄈", "certain", 15], ["𐙗", "certain", 16]]
+  ]
+}

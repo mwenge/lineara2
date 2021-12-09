@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1523",
+  "dimensions": {
+    "height": "2.20",
+    "length": "[3.30]",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3,30] x 2,20 x 0,80 cm",
+  "name": "PH22b",
+  "tabulatedWords": [],
+  "tabulation": [
+    []
+  ]
+}

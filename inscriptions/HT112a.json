@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM 1346",
+  "dimensions": {
+    "height": "[3.80]",
+    "length": "[2.30]",
+    "source": "GORILA OCR",
+    "thickness": "0.60",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2.30] x [3,80] x 0,60 cm",
+  "name": "HT112a",
+  "tabulatedWords": ["𐘐", "𐘹𐘂"],
+  "tabulation": [
+    [["𐘐", "", 0]],
+    [["𐘹", "", 1], ["𐘂", "", 1]]
+  ]
+}

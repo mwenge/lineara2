@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1652",
+  "dimensions": {
+    "height": "[2.90]",
+    "length": "[4.10]",
+    "source": "GORILA OCR",
+    "thickness": "0.70",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[4,10] x [2,90] x 0,70 cm",
+  "name": "ZA25",
+  "tabulatedWords": [],
+  "tabulation": [
+    []
+  ]
+}

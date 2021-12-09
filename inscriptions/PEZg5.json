@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PEZg5",
+  "tabulatedWords": ["𐙖", "𐙛", "𐄇", "𐝆"],
+  "tabulation": [
+    [["𐙖", "doubtful", 0], ["𐙛", "doubtful", 1], ["𐄇", "certain", 2], ["𐝆", "certain", 3]]
+  ]
+}

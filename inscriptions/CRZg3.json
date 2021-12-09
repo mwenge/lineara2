@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "CRZg3",
+  "tabulatedWords": ["𐙍", "≈", "𐘝", "≈", "𐛿"],
+  "tabulation": [
+    [["𐙍", "", 0], [" ", "", 1], ["≈", "", 2], [" ", "", 3], ["𐘝", "", 4]]
+  ]
+}

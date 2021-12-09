@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "THEtab.5",
+  "tabulatedWords": ["𐄁", "𐘃𐘋𐘀𐘚"],
+  "tabulation": [
+    [["𐄁", "", 0], ["𐘃", "", 1], ["𐘋", "", 1], ["𐘀", "", 1], ["𐘚", "", 1]]
+  ]
+}

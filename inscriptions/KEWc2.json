@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "KEWc2",
+  "tabulatedWords": ["𐝂", "𐝁𐝁"],
+  "tabulation": [
+    [["𐝂", "", 0], ["𐝁", "", 1], ["𐝁", "", 1]]
+  ]
+}

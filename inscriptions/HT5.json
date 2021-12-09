@@ -1,0 +1,12 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "HT5",
+  "tabulatedWords": ["𐙛", "𐙁𐘤", "𐄒", "𐘣𐘬", "𐄐"],
+  "tabulation": [
+    [["𐙛", "certain", 0]],
+    [["𐙁", "doubtful", 1], ["𐘤", "certain", 1], ["𐄒", "certain", 2]],
+    [["𐘣", "certain", 3], ["𐘬", "certain", 3], ["𐄐", "certain", 4]]
+  ]
+}

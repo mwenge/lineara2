@@ -1,0 +1,11 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PA1",
+  "tabulatedWords": ["𐘇𐙂𐘶𐘂𐙈", "𐄒𐄋"],
+  "tabulation": [
+    [["𐘇", "certain", 0], ["𐙂", "certain", 0], ["𐘶", "doubtful", 0], ["𐘂", "certain", 0], ["𐙈", "certain", 0]],
+    [["𐄒", "certain", 1], ["𐄋", "certain", 1]]
+  ]
+}

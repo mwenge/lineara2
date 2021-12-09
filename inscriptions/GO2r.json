@@ -1,0 +1,13 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "GO2r",
+  "tabulatedWords": ["𐘤", "𐘾", "𐝄", "𐘤", "𐄈", "𐘀", "𐘤𐘀𐘁", "𐝃", "𐘈"],
+  "tabulation": [
+    [["𐘤", "certain", 0]],
+    [["𐘾", "certain", 1], ["𐝄", "certain", 2], ["𐘤", "certain", 3], ["𐄈", "doubtful", 4], ["𐘀", "certain", 5]],
+    [["𐘤", "certain", 6], ["𐘀", "certain", 6], ["𐘁", "certain", 6], ["𐝃", "certain", 7]],
+    [["𐘈", "certain", 8]]
+  ]
+}

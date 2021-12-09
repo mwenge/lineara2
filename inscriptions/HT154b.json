@@ -1,0 +1,10 @@
+{
+  "catalogue": "HM",
+  "dimensions": "",
+  "dimensionsRaw": "[2,80] x [4,00]* 0,90cm",
+  "name": "HT154b",
+  "tabulatedWords": ["𐄁", "𐙉"],
+  "tabulation": [
+    [["𐄁", "", 0], ["𐙉", "", 1]]
+  ]
+}

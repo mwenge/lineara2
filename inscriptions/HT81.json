@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM",
+  "dimensions": {
+    "height": "[2.00]",
+    "length": "[3.40]",
+    "source": "GORILA OCR",
+    "thickness": "0.60",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3,40] x [2,00] x 0,60 cm",
+  "name": "HT81",
+  "tabulatedWords": ["𐘇𐘈", "𐄁", "𐛚", "𐄁", "𐝅", "𐘭𐘲𐙁", "𐝋", "𐘸"],
+  "tabulation": [
+    [["𐘇", "doubtful", 0], ["𐘈", "certain", 0], ["𐄁", "certain", 1], ["𐛚", "certain", 2], ["𐄁", "certain", 3], ["𐝅", "doubtful", 4]],
+    [["𐘭", "certain", 5], ["𐘲", "certain", 5], ["𐙁", "certain", 5], ["𐝋", "doubtful", 6], ["𐘸", "certain", 7]]
+  ]
+}

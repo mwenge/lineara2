@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM 1537",
+  "dimensions": {
+    "height": "[3.00]",
+    "length": "[3.80]",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3,80] x [3,00] x 0,80cm",
+  "name": "PH30",
+  "tabulatedWords": ["𐘠", "𐝃", "𐙁𐘙𐘭𐘻𐘦"],
+  "tabulation": [
+    [["𐘠", "", 0], ["𐝃", "", 1]],
+    [["𐙁", "", 2], ["𐘙", "", 2], ["𐘭", "", 2], ["𐘻", "", 2], ["𐘦", "", 2]]
+  ]
+}

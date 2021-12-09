@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM 85",
+  "dimensions": {
+    "height": "[6.70]",
+    "length": "4.90",
+    "source": "GORILA OCR",
+    "thickness": "4.20",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,90 x [6,70] x 4,20 cm",
+  "name": "ZA1b",
+  "tabulatedWords": ["𐘡𐘻", "𐘁", "𐙉", "𐄓𐄍"],
+  "tabulation": [
+    [["𐘡", "", 0], ["𐘻", "", 0], ["𐘁", "", 1]],
+    [["𐙉", "", 2], ["𐄓", "", 3], ["𐄍", "", 3]]
+  ]
+}

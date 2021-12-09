@@ -1,0 +1,12 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "KH82",
+  "tabulatedWords": ["𐜏", "𐝉", "𐙧", "𐄇", "𐙼"],
+  "tabulation": [
+    [["𐜏", "certain", 0], ["𐝉", "doubtful", 1]],
+    [["𐙧", "certain", 2], ["𐄇", "certain", 3]],
+    [["𐙼", "doubtful", 4]]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1520",
+  "dimensions": {
+    "height": "[190]",
+    "length": "[2.80]",
+    "source": "GORILA OCR",
+    "thickness": "4.10",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,80] x [190] x4,10 cm",
+  "name": "PH19",
+  "tabulatedWords": ["𐘢𐘵"],
+  "tabulation": [
+    [["𐘢", "doubtful", 0], ["𐘵", "doubtful", 0]]
+  ]
+}

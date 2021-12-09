@@ -1,0 +1,18 @@
+{
+  "catalogue": "HM",
+  "dimensions": {
+    "height": "[5.80]",
+    "length": "[4.50]",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[4,50] x [5,80] x 0,80 cm",
+  "name": "HT53a",
+  "tabulatedWords": ["𐘞𐘗", "𐄓", "𐙖", "𐄙", "𐘴"],
+  "tabulation": [
+    [["𐘞", "", 0], ["𐘗", "", 0]],
+    [["𐄓", "", 1], ["𐙖", "", 2]],
+    [["𐄙", "", 3], ["𐘴", "", 4]]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "ARKH7",
+  "tabulatedWords": ["—", "𐙜", "𐝂"],
+  "tabulation": [
+    [["—", "", 0], ["𐙜", "", 1], ["𐝂", "", 2]]
+  ]
+}

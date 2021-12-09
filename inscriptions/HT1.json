@@ -1,0 +1,13 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "HT1",
+  "tabulatedWords": ["𐘿𐘽𐘉", "𐄁", "𐘸𐘁", "𐄙𐄘𐄍", "𐙀𐘲", "𐄖", "𐘆𐘆𐘍𐘥", "𐄔𐄈", "𐙂𐘰𐘯", "𐄙𐄏", "𐘇𐘴𐘅𐘙", "𐄙𐄋"],
+  "tabulation": [
+    [["𐘿", "certain", 0], ["𐘽", "certain", 0], ["𐘉", "certain", 0], ["𐄁", "certain", 1], ["𐘸", "certain", 2], ["𐘁", "certain", 2], ["𐄙", "certain", 3], ["𐄘", "certain", 3]],
+    [["𐄍", "certain", 3], ["𐙀", "certain", 4], ["𐘲", "certain", 4], ["𐄖", "certain", 5], ["𐘆", "doubtful", 6], ["𐘆", "certain", 6]],
+    [["𐘍", "certain", 6], ["𐘥", "certain", 6], ["𐄔", "certain", 7], ["𐄈", "certain", 7], ["𐙂", "certain", 8], ["𐘰", "certain", 8], ["𐘯", "certain", 8], ["𐄙", "certain", 9]],
+    [["𐄏", "certain", 9], ["𐘇", "certain", 10], ["𐘴", "certain", 10], ["𐘅", "certain", 10], ["𐘙", "certain", 10], ["𐄙", "certain", 11], ["𐄋", "certain", 11]]
+  ]
+}

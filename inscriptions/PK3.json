@@ -1,0 +1,19 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PK3",
+  "tabulatedWords": ["𐘿", "𐄉", "𐘱", "𐄑", "𐄒𐄇", "𐘀𐘙", "𐄖𐄈", "𐘠", "𐄈", "𐙂", "𐄉", "𐄉"],
+  "tabulation": [
+    [["𐘿", "certain", 0]],
+    [["𐄉", "certain", 1]],
+    [["𐘱", "certain", 2]],
+    [["𐄑", "doubtful", 3], ["𐄒", "doubtful", 4]],
+    [["𐄇", "doubtful", 4]],
+    [["𐘀", "certain", 5]],
+    [["𐘙", "certain", 5]],
+    [["𐄖", "certain", 6]],
+    [["𐄈", "certain", 6]],
+    [["𐘠", "certain", 7], ["𐄈", "certain", 8], ["𐙂", "certain", 9], ["𐄉", "certain", 10], ["𐄉", "certain", 11]]
+  ]
+}

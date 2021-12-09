@@ -1,0 +1,11 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "GOWc3",
+  "tabulatedWords": ["𐝬", "𐄑,𐄈"],
+  "tabulation": [
+    [["𐝬", "", 0], ["𐄑", "", 1]],
+    [[",", "", 1], ["𐄈", "", 1]]
+  ]
+}

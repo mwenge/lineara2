@@ -1,0 +1,21 @@
+{
+  "catalogue": "HM 1620",
+  "dimensions": {
+    "height": "10.30",
+    "length": "6.20",
+    "source": "GORILA OCR",
+    "thickness": "1.40",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "6,20 x 10,30 x 1,40 cm",
+  "name": "ZA9",
+  "tabulatedWords": ["𐘯𐘠", "𐄁", "𐘍", "𐘴", "𐚽", "𐄋", "𐘁𐘤𐘴", "𐚽", "𐄊", "𐘇𐘳𐘅", "𐄁", "𐚽", "𐄈", "𐄁", "𐙁𐘶", "𐘓", "𐄈", "𐘣𐘴𐘙𐘻𐘃", "𐘓", "𐄇"],
+  "tabulation": [
+    [["𐘯", "certain", 0], ["𐘠", "certain", 0], ["𐄁", "certain", 1], ["𐘍", "certain", 2]],
+    [["𐘴", "certain", 3], ["𐚽", "certain", 4], ["𐄋", "doubtful", 5]],
+    [["𐘁", "certain", 6], ["𐘤", "certain", 6], ["𐘴", "certain", 6]],
+    [["𐚽", "doubtful", 7], ["𐄊", "doubtful", 8], ["𐘇", "certain", 9], ["𐘳", "certain", 9], ["𐘅", "certain", 9], ["𐄁", "certain", 10]],
+    [["𐚽", "certain", 11], ["𐄈", "doubtful", 12], ["𐄁", "certain", 13], ["𐙁", "certain", 14], ["𐘶", "certain", 14], ["𐘓", "certain", 15], ["𐄈", "certain", 16]],
+    [["𐘣", "certain", 17], ["𐘴", "certain", 17], ["𐘙", "certain", 17], ["𐘻", "certain", 17], ["𐘃", "certain", 17], ["𐘓", "certain", 18], ["𐄇", "certain", 19]]
+  ]
+}

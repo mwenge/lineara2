@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM1644 + 2 ke. 200",
+  "dimensions": {
+    "height": "[3.70]",
+    "length": "[3.70]",
+    "source": "GORILA OCR",
+    "thickness": "0.90",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3,70] x [3,70] x 0,90 cm",
+  "name": "ZA24a",
+  "tabulatedWords": ["𐘚𐘀", "𐙉"],
+  "tabulation": [
+    [["𐘚", "", 0], ["𐘀", "", 0], ["𐙉", "", 1]]
+  ]
+}

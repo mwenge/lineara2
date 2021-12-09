@@ -1,0 +1,22 @@
+{
+  "catalogue": "HM7",
+  "dimensions": {
+    "height": "40.5",
+    "length": "6.1O",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "6,1O x 40,5 x 0,80 cm",
+  "name": "HT13",
+  "tabulatedWords": ["𐘾𐘉𐘦𐘳", "𐙍", "𐄁", "𐘃", "𐄁", "𐘙𐘍", "𐄋", "𐝆", "𐘃𐘹", "𐄔𐄌", "𐘃𐘸", "𐄑𐄍", "𐝆", "𐙂𐙀𐘝", "𐄐𐄎", "𐘀𐘤𐙈", "𐄐𐄏", "𐘚𐘬𐘗𐘤", "𐄋", "𐙂𐘁", "𐄙𐄒", "𐝆"],
+  "tabulation": [
+    [["𐘾", "certain", 0], ["𐘉", "certain", 0], ["𐘦", "certain", 0], ["𐘳", "certain", 0]],
+    [["𐙍", "certain", 1], ["𐄁", "certain", 2], ["𐘃", "certain", 3], ["𐄁", "certain", 4], ["𐘙", "certain", 5], ["𐘍", "certain", 5], ["𐄋", "certain", 6], ["𐝆", "certain", 7]],
+    [["𐘃", "certain", 8], ["𐘹", "certain", 8], ["𐄔", "certain", 9], ["𐄌", "certain", 9], ["𐘃", "certain", 10], ["𐘸", "certain", 10]],
+    [["𐄑", "certain", 11], ["𐄍", "certain", 11], ["𐝆", "certain", 12], ["𐙂", "certain", 13], ["𐙀", "certain", 13], ["𐘝", "certain", 13], ["𐄐", "certain", 14], ["𐄎", "certain", 14]],
+    [["𐘀", "doubtful", 15], ["𐘤", "certain", 15], ["𐙈", "certain", 15], ["𐄐", "certain", 16], ["𐄏", "certain", 16], ["𐘚", "certain", 17], ["𐘬", "certain", 17]],
+    [["𐘗", "certain", 17], ["𐘤", "certain", 17], ["𐄋", "certain", 18]],
+    [["𐙂", "certain", 19], ["𐘁", "certain", 19], ["𐄙", "certain", 20], ["𐄒", "certain", 20], ["𐝆", "certain", 21]]
+  ]
+}

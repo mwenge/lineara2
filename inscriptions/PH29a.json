@@ -1,0 +1,16 @@
+{
+  "catalogue": "MSPH(?)",
+  "dimensions": {
+    "height": "[3.40]",
+    "length": "[3.00]",
+    "source": "GORILA OCR",
+    "thickness": "0.60",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3,00]x[3,40] x 0,60 cm",
+  "name": "PH29a",
+  "tabulatedWords": [],
+  "tabulation": [
+    []
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PH13c",
+  "tabulatedWords": ["𐘃𐙀", "𐝃𐝃"],
+  "tabulation": [
+    [["𐘃", "", 0]],
+    [["𐙀", "", 0]],
+    [["𐝃", "", 1]],
+    [["𐝃", "", 1]]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PH8b",
+  "tabulatedWords": ["𐙨", "𐄇", "𐜢"],
+  "tabulation": [
+    [["𐙨", "", 0], ["𐄇", "", 1], ["𐜢", "", 2]]
+  ]
+}

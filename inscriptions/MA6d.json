@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 4380",
+  "dimensions": {
+    "height": "4.50",
+    "length": "9.50",
+    "source": "GORILA OCR",
+    "thickness": "4.90",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "9.50 x 4,50 x 4,90 cm",
+  "name": "MA6d",
+  "tabulatedWords": ["𐙒", "𐄚"],
+  "tabulation": [
+    [["𐙒", "", 0], ["𐄚", "", 1]]
+  ]
+}

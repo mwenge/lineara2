@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM 49",
+  "dimensions": {
+    "height": "3.30",
+    "length": "4.50",
+    "source": "GORILA OCR",
+    "thickness": "0.90",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,50 x 3,30 x 0,90 cm",
+  "name": "HT43",
+  "tabulatedWords": ["𐙁𐘤𐘬", "𐄁", "𐘂𐚂𐘚", "𐄁", "𐘚", "𐄁", "𐛭", "𐄋"],
+  "tabulation": [
+    [["𐙁", "certain", 0], ["𐘤", "certain", 0], ["𐘬", "certain", 0], ["𐄁", "certain", 1], ["𐘂", "certain", 2]],
+    [["𐚂", "certain", 2], ["𐘚", "certain", 2], ["𐄁", "certain", 3], ["𐘚", "certain", 4], ["𐄁", "certain", 5], ["𐛭", "certain", 6], ["𐄋", "doubtful", 7]]
+  ]
+}

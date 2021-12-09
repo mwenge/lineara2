@@ -1,0 +1,16 @@
+{
+  "catalogue": "",
+  "dimensions": {
+    "height": "[4.50]",
+    "length": "[3.10]",
+    "source": "GORILA OCR",
+    "thickness": ".20",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[3,10]x [4.50] x ,20 cm",
+  "name": "KH62",
+  "tabulatedWords": ["𐙁"],
+  "tabulation": [
+    [["𐙁", "", 0]]
+  ]
+}

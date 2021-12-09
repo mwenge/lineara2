@@ -1,0 +1,12 @@
+{
+  "catalogue": "HM 4674",
+  "dimensions": "",
+  "dimensionsRaw": "7,80 [5,70] x 1,20 cm",
+  "name": "ARKH5",
+  "tabulatedWords": ["𐘇𐘬𐘝𐘳𐘅", "𐄓𐄇", "𐄍", "𐘇𐘀𐘁", "𐙉", "𐄓", "𐙎", "𐄌", "𐘇"],
+  "tabulation": [
+    [["𐘇", "certain", 0], ["𐘬", "certain", 0], ["𐘝", "certain", 0], ["𐘳", "doubtful", 0], ["𐘅", "certain", 0], ["𐄓", "certain", 1], ["𐄇", "certain", 1]],
+    [["𐄍", "certain", 2], ["𐘇", "certain", 3], ["𐘀", "certain", 3], ["𐘁", "doubtful", 3], ["𐙉", "certain", 4], ["𐄓", "certain", 5]],
+    [["𐙎", "doubtful", 6], ["𐄌", "certain", 7], ["𐘇", "certain", 8]]
+  ]
+}

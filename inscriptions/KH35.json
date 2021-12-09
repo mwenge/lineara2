@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "KH35",
+  "tabulatedWords": ["𐄇", "𐙗"],
+  "tabulation": [
+    [["𐄇", "doubtful", 0], ["𐙗", "certain", 1]]
+  ]
+}

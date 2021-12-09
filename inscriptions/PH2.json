@@ -1,0 +1,19 @@
+{
+  "catalogue": "HM 1376",
+  "dimensions": {
+    "height": "[5.00]",
+    "length": "4.80",
+    "source": "GORILA OCR",
+    "thickness": "4.10",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4.80 x [5,00] x 4,10 cm",
+  "name": "PH2",
+  "tabulatedWords": ["𐘇𐘈𐘹𐘐", "𐄇", "𐘴𐘵𐘆𐘸", "𐄕", "𐘢𐘘𐘡𐘶", "𐄕", "𐘈𐘞𐘰", "𐄕"],
+  "tabulation": [
+    [["𐘇", "certain", 0], ["𐘈", "doubtful", 0], ["𐘹", "certain", 0], ["𐘐", "certain", 0], ["𐄇", "certain", 1], ["𐘴", "certain", 2]],
+    [["𐘵", "certain", 2], ["𐘆", "certain", 2], ["𐘸", "certain", 2], ["𐄕", "certain", 3]],
+    [["𐘢", "certain", 4], ["𐘘", "certain", 4], ["𐘡", "certain", 4], ["𐘶", "certain", 4], ["𐄕", "certain", 5]],
+    [["𐘈", "doubtful", 6], ["𐘞", "certain", 6], ["𐘰", "certain", 6], ["𐄕", "certain", 7]]
+  ]
+}

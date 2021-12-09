@@ -1,0 +1,18 @@
+{
+  "catalogue": "HM 1326",
+  "dimensions": {
+    "height": "[5.70]",
+    "length": "4.90",
+    "source": "GORILA OCR",
+    "thickness": "0.90",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,90 x [5,70] x 0,90 cm",
+  "name": "HT108",
+  "tabulatedWords": ["𐘸𐘙𐘳𐘅", "𐙇", "𐄇", "𐛶", "𐄖", "—", "𐘆𐘅𐘁", "𐄈", "𐘬𐘲𐘝", "𐄋", "𐄁", "𐘽𐘠", "𐄐", "𐘶"],
+  "tabulation": [
+    [["𐘸", "certain", 0], ["𐘙", "certain", 0], ["𐘳", "certain", 0], ["𐘅", "certain", 0], ["𐙇", "certain", 1], ["𐄇", "certain", 2], ["𐛶", "certain", 3], ["𐄖", "certain", 4]],
+    [["—", "certain", 5], ["𐘆", "certain", 6], ["𐘅", "certain", 6], ["𐘁", "certain", 6], ["𐄈", "certain", 7], ["𐘬", "certain", 8], ["𐘲", "certain", 8], ["𐘝", "certain", 8], ["𐄋", "doubtful", 9], ["𐄁", "certain", 10]],
+    [["𐘽", "certain", 11], ["𐘠", "certain", 11], ["𐄐", "certain", 12], ["𐘶", "certain", 13]]
+  ]
+}

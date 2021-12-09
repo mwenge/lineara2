@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PLZf1",
+  "tabulatedWords": ["𐘳", "𐄁", "𐘣𐘃𐘱𐘕", "𐄁", "𐘉𐘿𐘠", "𐄁", "𐘱𐘞𐘞𐘴𐘋", "𐄁", "𐘳𐘯𐘝𐘸𐘅", "𐄁", "𐘝𐘯𐘝", "𐄁", "𐄁", "𐘚", "𐄁"],
+  "tabulation": [
+    [["𐘳", "certain", 0], ["𐄁", "certain", 1], ["𐘣", "doubtful", 2], ["𐘃", "certain", 2], ["𐘱", "certain", 2], ["𐘕", "doubtful", 2], ["𐄁", "certain", 3], ["𐘉", "certain", 4], ["𐘿", "certain", 4], ["𐘠", "certain", 4], ["𐄁", "certain", 5], ["𐘱", "certain", 6], ["𐘞", "certain", 6], ["𐘞", "certain", 6], ["𐘴", "certain", 6], ["𐘋", "doubtful", 6], ["𐄁", "certain", 7], ["𐘳", "certain", 8], ["𐘯", "certain", 8], ["𐘝", "certain", 8], ["𐘸", "certain", 8], ["𐘅", "certain", 8], ["𐄁", "certain", 9], ["𐘝", "certain", 10], ["𐘯", "certain", 10], ["𐘝", "doubtful", 10], ["𐄁", "certain", 11], ["𐄁", "certain", 12], ["𐘚", "certain", 13], ["𐄁", "certain", 14]]
+  ]
+}

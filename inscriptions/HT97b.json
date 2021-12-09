@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 4330",
+  "dimensions": {
+    "height": "[6.40]",
+    "length": "7.70",
+    "source": "GORILA OCR",
+    "thickness": "1.20",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "7,70 x [6,40] x 1,20 cm",
+  "name": "HT97b",
+  "tabulatedWords": ["𐘞𐘽"],
+  "tabulation": [
+    [["𐘞", "", 0], ["𐘽", "", 0]]
+  ]
+}

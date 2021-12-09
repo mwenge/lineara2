@@ -1,0 +1,16 @@
+{
+  "catalogue": "HM 1518",
+  "dimensions": {
+    "height": "4.00",
+    "length": "[2.70]",
+    "source": "GORILA OCR",
+    "thickness": "4.10",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,70] x 4,00 x 4,10 cm",
+  "name": "PH17a",
+  "tabulatedWords": ["𐚓"],
+  "tabulation": [
+    [["𐚓", "", 0]]
+  ]
+}

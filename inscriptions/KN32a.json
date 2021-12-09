@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM 4533",
+  "dimensions": {
+    "height": "[4.80]",
+    "length": "[2.60]",
+    "source": "GORILA OCR",
+    "thickness": "0.50",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[2,60] x [4,80] x0,50 cm",
+  "name": "KN32a",
+  "tabulatedWords": ["𐘇𐘂", "𐘇𐘾𐘳"],
+  "tabulation": [
+    [["𐘇", "", 0], ["𐘂", "", 0]],
+    [["𐘇", "", 1], ["𐘾", "", 1], ["𐘳", "", 1]]
+  ]
+}

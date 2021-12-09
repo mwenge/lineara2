@@ -1,0 +1,17 @@
+{
+  "catalogue": "HM",
+  "dimensions": {
+    "height": "[2.70]",
+    "length": "5.50",
+    "source": "GORILA OCR",
+    "thickness": "0.80",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "5,50 x [2.70] x 0,80 cm",
+  "name": "HT132",
+  "tabulatedWords": ["𐘇𐘈", "𐄁", "𐙫", "𐄋", "𐘌𐘙𐘄", "𐄁", "𐘓", "𐄑𐄍", "𐘰", "𐄁", "𐙙", "𐄇"],
+  "tabulation": [
+    [["𐘇", "certain", 0], ["𐘈", "certain", 0], ["𐄁", "certain", 1], ["𐙫", "certain", 2], ["𐄋", "certain", 3], ["𐘌", "certain", 4], ["𐘙", "certain", 4]],
+    [["𐘄", "certain", 4], ["𐄁", "certain", 5], ["𐘓", "certain", 6], ["𐄑", "certain", 7], ["𐄍", "certain", 7], ["𐘰", "certain", 8], ["𐄁", "certain", 9], ["𐙙", "certain", 10], ["𐄇", "doubtful", 11]]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "HT39",
+  "tabulatedWords": ["𐘳𐘚𐙌", "𐄐", "𐙂𐘙𐘶", "𐄎", "𐙂", "𐘞𐙁𐘠", "𐄐", "𐙂𐘙", "𐙂𐘁", "𐜯", "𐄙", "𐛤", "𐄈", "𐛍"],
+  "tabulation": [
+    [["𐘳", "certain", 0], ["𐘚", "certain", 0], ["𐙌", "certain", 0], ["𐄐", "certain", 1]],
+    [["𐙂", "certain", 2], ["𐘙", "certain", 2], ["𐘶", "certain", 2], ["𐄎", "certain", 3], ["𐙂", "certain", 4]],
+    [["𐘞", "certain", 5], ["𐙁", "certain", 5], ["𐘠", "doubtful", 5], ["𐄐", "doubtful", 6], ["𐙂", "certain", 7], ["𐘙", "doubtful", 7]],
+    [["𐙂", "certain", 8], ["𐘁", "certain", 8], ["𐜯", "certain", 9], ["𐄙", "doubtful", 10]],
+    [["𐛤", "certain", 11], ["𐄈", "doubtful", 12], ["𐛍", "certain", 13]]
+  ]
+}

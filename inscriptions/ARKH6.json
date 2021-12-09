@@ -1,0 +1,17 @@
+{
+  "catalogue": "НМ 4671",
+  "dimensions": {
+    "height": "[2.60]",
+    "length": "4.90",
+    "source": "GORILA OCR",
+    "thickness": "0.70",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "4,90 x [2,60] x 0,70 cm",
+  "name": "ARKH6",
+  "tabulatedWords": ["𐘀𐘅𐘹", "𐄁", "𐙂", "𐘃𐘭"],
+  "tabulation": [
+    [["𐘀", "doubtful", 0], ["𐘅", "certain", 0], ["𐘹", "certain", 0], ["𐄁", "certain", 1], ["𐙂", "certain", 2]],
+    [["𐘃", "doubtful", 3], ["𐘭", "doubtful", 3]]
+  ]
+}

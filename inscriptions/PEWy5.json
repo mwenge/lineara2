@@ -1,0 +1,10 @@
+{
+  "catalogue": "",
+  "dimensions": "",
+  "dimensionsRaw": "",
+  "name": "PEWy5",
+  "tabulatedWords": ["𐙖𐙛", "𐄇", "𐝆"],
+  "tabulation": [
+    [["𐙖", "doubtful", 0], ["𐙛", "certain", 0], ["𐄇", "certain", 1], ["𐝆", "certain", 2]]
+  ]
+}

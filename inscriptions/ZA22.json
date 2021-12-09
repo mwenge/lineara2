@@ -1,0 +1,20 @@
+{
+  "catalogue": "HM1641+ 1 198",
+  "dimensions": {
+    "height": "[9.50]",
+    "length": "[5.40]",
+    "source": "GORILA OCR",
+    "thickness": "1.60",
+    "unit": "cm"
+  },
+  "dimensionsRaw": "[5,40] x [9,50] x 1,60 cm",
+  "name": "ZA22",
+  "tabulatedWords": ["𐘓", "𐘔", "𐄇", "𐄇", "𐘴", "𐄁", "𐘓", "𐄇", "𐄌", "𐘬𐘶", "𐘓", "𐄙"],
+  "tabulation": [
+    [["𐘓", "doubtful", 0]],
+    [["𐘔", "certain", 1], ["𐄇", "doubtful", 2]],
+    [["𐄇", "doubtful", 3], ["𐘴", "certain", 4], ["𐄁", "certain", 5], ["𐘓", "certain", 6], ["𐄇", "doubtful", 7]],
+    [["𐄌", "certain", 8], ["𐘬", "doubtful", 9], ["𐘶", "doubtful", 9]],
+    [["𐘓", "certain", 10], ["𐄙", "certain", 11]]
+  ]
+}

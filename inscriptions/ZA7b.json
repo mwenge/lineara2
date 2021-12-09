@@ -1,0 +1,10 @@
+{
+  "catalogue": "HM 1622",
+  "dimensions": "",
+  "dimensionsRaw": "7,40 x [6,10] x 1,40 + 7,20 x [3,90] x 1,50 cm",
+  "name": "ZA7b",
+  "tabulatedWords": ["𐘇𐙁", "𐝄𐝉"],
+  "tabulation": [
+    [["𐘇", "", 0], ["𐙁", "", 0], ["𐝄", "", 1], ["𐝉", "", 1]]
+  ]
+}
